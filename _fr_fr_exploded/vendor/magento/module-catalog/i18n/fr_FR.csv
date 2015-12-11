@@ -1,0 +1,391 @@
+Root,Racine
+"Save Category","Sauvegarder la catégorie"
+"Delete Category","Supprimer cette catégorie"
+Reset,Réinitialiser
+"New Subcategory","Nouvelle sous-catégorie"
+"New Root Category","Nouvelle catégorie racine"
+"Set Root Category for Store","Renseigner la catégorie racine pour la boutique"
+"Use Config Settings","Utiliser les paramètres de la configuration"
+"Use All Available Attributes","Utiliser tous les attributs disponibles"
+"Custom Design","Design personnalisé"
+ID,ID
+Name,Nom
+SKU,Réf.
+Price,Prix
+Position,Position
+"Category Data","Données de catégorie"
+"Category Products","Produits de la catégorie"
+"Add Subcategory","Ajouter une sous-catégorie"
+"Add Root Category","Ajouter une catégorie racine"
+Day,Jour
+Month,Mois
+Year,Année
+[GLOBAL],[GLOBAL]
+[WEBSITE],"[SITE WEB]"
+"[STORE VIEW]","[VUE MAGASIN]"
+"WYSIWYG Editor","Éditeur WYSIWYG"
+"Add Product","Ajouter un produit"
+label,libellé
+"Product Attributes","Attributs de produit"
+"Add New Attribute","Ajouter un attribut"
+"Save and Continue Edit","Sauvegarder et continuer à éditer"
+"Save Attribute","Sauvegarder l'attribut"
+"Delete Attribute","Supprimer l'attribut"
+"Edit Product Attribute ""%1""","Éditer l'attribut produit ""%1"""
+"New Product Attribute","Nouvel attribut produit"
+"Attribute Code",Code
+"Default Value","Valeur par défaut"
+"Unique Value","Valeur unique"
+"Unique Value (not shared with other products)","Valeur unique (non partagée avec les autres produits)"
+"Not shared with other products","Non partagé avec les autres produits"
+"Input Validation for Store Owner","Validation requise"
+"Store View","Vue magasin"
+Website,"Site web"
+Global,GLOBAL
+Scope,Portée
+"Declare attribute value saving scope","Déclarer la portée d'économie de valeurs d'attributs"
+"Storefront Properties","Propritétés du front office"
+"Use for Promo Rule Conditions","Utiliser pour les conditions de règles de promotions"
+"Enable WYSIWYG","Activer l'éditeur WYSIWYG"
+"Used in Product Listing","Utiliser dans les listes de produits"
+"Depends on design theme","Dépendant du thème de design"
+"Used for Sorting in Product Listing","Utiliser pour le tri des listes de produits"
+"Media Image",Image
+Gallery,Galerie
+"System Properties","Propriétés système"
+No,Non
+Yes,Oui
+"Data Type for Saving in Database","Type de données à sauvegarder dans la base de données"
+Text,Texte
+Varchar,Varchar
+Static,Statique
+Datetime,"Date et heure"
+Decimal,Décimal
+Integer,Entier
+"Globally Editable","Éditable globalement"
+"Attribute Information","Informations attributs"
+Properties,Propriétés
+Visible,Visible
+"Web Site","Site Web"
+Searchable,"Utiliser dans la recherche"
+Comparable,Comparable
+"Delete Selected Group","Supprimer le groupe sélectionné"
+"Add New",Ajouter
+Back,Retour
+Delete,Supprimer
+Save,Sauvegarder
+"New Set Name","Nouveau nom de groupe"
+"Edit Attribute Set '%1'","Éditer le jeu d'attributs '%1'"
+Empty,Vide
+"Add Attribute","Ajouter un attribut"
+"Add New Group","Nouveau groupe"
+"Add Group","Ajouter un groupe"
+"Based On","Basé sur"
+"Add New Attribute Set","Nouveau jeu d'attributs"
+"Attribute Sets","Jeux d'attributs"
+"Close Window","Fermer la fenêtre"
+"New Product","Nouveau produit"
+Attributes,Attributs
+Change,Modifier
+Websites,"Sites web"
+"Products Information","Informations produits"
+"Parent Category","Catégorie parente"
+"There are no customers for this alert.","Aucun client pour cette alerte."
+"First Name",Prénom
+"Last Name",Nom
+Email,Email
+"Send Count","Nombre d'envois"
+"New Attribute","Nouvel attribut"
+Type,Type
+"Attribute Set","Jeu d'attributs"
+Status,Statut
+Visibility,Visibilité
+"Add New Option","Ajouter une option"
+"Import Options","Options d'import"
+"Use Default","Utiliser la valeur par défaut"
+Import,Importer
+"Add New Row","Ajouter une ligne"
+"Delete Row","Supprimer la ligne"
+"Tier Pricing","Tarification par palier"
+"Default Price","Prix par défaut"
+"All Websites","Tous les sites web"
+"ALL GROUPS","TOUS LES GROUPES"
+"Default Values","Valeurs par défaut"
+"Related Products","Produits apparentés"
+Up-sells,"Ventes incitatives"
+Cross-sells,"Ventes croisées"
+"Size for %1","Taille pour %1"
+"Watermark File for %1","Fichier de filigrane pour %1"
+"Position of Watermark for %1","Position du filigrane pour %1"
+"Name in %1","Nom dans %1"
+Quantity,Quantité
+Edit,Éditer
+"Are you sure?","Êtes-vous sûr(e) ?"
+"Change Status","Changer le statut"
+"Update Attributes","Mettre à jour les attributs"
+"Delete image","Effacer l'image"
+"New Category","Nouvelle catégorie"
+"Images (.gif, .jpg, .png)","Images (.gif, .jpg, .png)"
+"Add New Images","Nouvelles images"
+"Inc. Tax",TTC
+Product,Produit
+"Notify Low Stock RSS","Flux RSS de notification de stock"
+"Low Stock Products","Produits ayant un faible niveau de stock"
+"%1 has reached a quantity of %2.","%1 a atteint la quantité de %2."
+Home,Accueil
+"Go to Home Page","Aller à la page d'accueil"
+"Subscribe to RSS Feed","S'abonner au flux RSS"
+"Products Comparison List","Liste de comparaison de produits"
+N/A,N/A
+AM,AM
+PM,PM
+"-- Please Select --","-- Votre choix --"
+None,Aucun
+"New Products from %1","Nouveaux produits de %1"
+"New Products","Nouveaux produits"
+"%1 - Special Products","%1 - Produits spéciaux"
+"Click for price","Cliquez pour afficher le prix"
+"Special Expires On: %1","Prix spécial jusqu'au : %1"
+"Price: %1","Prix : %1"
+"Special Price: %1","Prix spécial : %1"
+"Special Products","Produits spéciaux"
+Categories,Catégories
+"Manage Catalog Categories","Gérer les catégories du catalogue"
+"Manage Categories","Gérer les catégories"
+"Attribute ""%1"" is required.","L'attribut ""%1"" est obligatoire."
+Catalog,Catalogue
+"Manage Product Attributes","Gérer les attributs produit"
+"This attribute cannot be edited.","Cet attribut ne peut pas être édité."
+"Edit Product Attribute","Éditer l'attribut produit"
+"This product no longer exists.","Ce produit n'existe plus."
+Products,Produits
+"A group with the same name already exists.","Il existe déjà un groupe portant ce nom."
+"The attribute set has been removed.","Le jeu d'attributs a été supprimé."
+"New Set","Nouveau groupe"
+"Manage Product Sets","Gérer les ensembles de produits"
+"Manage Attribute Sets","Gérer les jeux d'attributs"
+"This attribute set no longer exists.","Ce jeu d'attributs n'existe plus."
+"Invalid attribute %1","Attribut invalide : %1"
+Grid,Grille
+List,Liste
+All,Tous
+"Product is not loaded","Le produit n'est pas chargé."
+"The value of attribute ""%1"" must be unique.","La valeur de l'attribut ""%1"" doit être unique."
+"No layout updates","Pas de modification de l'agencement"
+"Products only","Produits seulement"
+"Static block only","Bloc statique uniquement"
+"Static block and products","Bloc statique et produits"
+"-- Please Select a Category --","-- Choisissez une catégorie --"
+"Grid Only","Grille uniquement"
+"List Only","Liste seulement"
+"Grid (default) / List","Grille (par défaut) / Liste"
+"List (default) / Grid","Liste (par défaut) / grille"
+"Automatic (equalize price ranges)","Automatique (égalise les tranches de prix)"
+"Automatic (equalize product counts)","Automatique (égalise le nombre de produits)"
+Manual,Manuel
+Fixed,Fixé
+Percent,Pourcent
+"-- Please select --","-- Votre choix --"
+"Product Thumbnail Itself","Vignette du produit lui-même"
+"Parent Product Thumbnail","Vignette du produit parent"
+"12h AM/PM","12h AM/PM"
+24h,24h
+Stretch,Étirer
+Tile,Mosaïque
+Top/Left,"En haut à gauche"
+Top/Right,"En haut à droite"
+Bottom/Left,"En bas à gauche"
+Bottom/Right,"En bas à droite"
+Center,Centrer
+"Unknown EAV indexer type ""%1"".","Type d'indexer EAV inconnu : ""%1""."
+"Unsupported product type ""%1"".","Type de produit non supporté : ""%1""."
+Category,Catégorie
+"%1 - %2","%1 - %2"
+"Clear Price","Effacer le prix"
+"%1 and above","%1 et plus"
+"The filters must be an array.","Les filtres doivent être sous forme de tableau."
+"Please enter a number 0 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 0 dans ce champ."
+"SKU length should be %1 characters maximum.","La longueur maxi pour la référence est de %1 caractères."
+"Please enter a valid number in this field.","Veuillez saisir un nombre valide."
+"Use config","Utiliser la config"
+Enabled,Activé
+Disabled,Désactivé
+"Select type options required values rows.","Sélectionner les lignes des valeurs obligatoires des options."
+"Please specify date required option(s).","Spécifiez la ou les option(s) de date obligatoire(s)."
+"Please specify time required option(s).","Spécifiez la ou les option(s) d'heure obligatoire(s)."
+px.,px.
+"The file you uploaded is larger than %1 Megabytes allowed by server","Le fichier téléchargé a une taille supérieure à %1 Mo (maximum autorisé par le serveur)"
+"Not Visible Individually","Non visible individuellement"
+Search,Chercher
+"Catalog, Search","Catalogue, Recherche"
+"A product type is not defined for the indexer.","Aucun type de produit n'est défini pour l'indexer."
+"Multiple Select","Sélection multiple"
+Dropdown,"Liste déroulante"
+"As low as","À partir de"
+message,message
+"Are you sure you want to delete this category?","Êtes-vous sûr(e) de vouloir supprimer cette catégorie ?"
+"ID: %1","ID : %1"
+"Collapse All","Tout réduire"
+"Expand All","Tout développer"
+"Please confirm site switching. All data that hasn't been saved will be lost.","Confirmez-vous le changement de site ? Toutes les données non sauvegardées seront perdues."
+"Use Default Value","Utiliser la valeur par défaut"
+"Manage Titles (Size, Color, etc.)","Gérer les titres (Taille, couleur, etc.)"
+"Manage Options (values of your attribute)","Gérer les options (valeurs de vos attributs)"
+"Is Default","Valeur par défaut"
+"Add Option","Ajouter une option"
+"Sort Option","Options de tri"
+Groups,Groupes
+"Unassigned Attributes","Attributs non assignés"
+"This group contains system attributes. Please move system attributes to another group and try again.","Ce groupe contient des attributs système. Veuillez déplacer les attributs système vers un autre groupe et réessayer."
+"Custom Options","Options personnalisables"
+"Maximum image width","Largeur maximum d'image"
+"Maximum image height","Hauteur maximum d'image"
+"Maximum number of characters:","Nombre maxi de caractères :"
+"Manage Stock","Gérer les stocks"
+Qty,Qté
+"Minimum Qty Allowed in Shopping Cart","Quantité mini autorisée dans le panier"
+"Maximum Qty Allowed in Shopping Cart","Quantité maxi autorisée dans le panier"
+"Qty Uses Decimals","La quantité utilise des décimales"
+Backorders,"Commande en rupture de stock"
+"Notify for Quantity Below","Notifier quand la quantité passe en dessous de"
+"Enable Qty Increments","Activer les incréments de quantités"
+"Qty Increments","Incréments de quantités"
+"Stock Availability",Disponibilité
+"In Stock","En stock"
+"Out of Stock",Épuisé
+"Add Product To Websites","Ajouter le produit aux sites web"
+"Remove Product From Websites","Supprimer le produit des sites web"
+"Option Title","Titre de l'option"
+"Input Type","Type de saisie"
+Required,Obligatoire
+"Price Type","Type de prix"
+"Maximum Image Size","Taille d'image maximum"
+Title,Titre
+"Max Characters","Nombre maxi de caractères"
+"Customer Group","Groupe de clients"
+Action,Action
+"and above","et plus"
+"Delete Tier","Effacer le palier"
+"Product In Websites","Publier dans les sites web"
+"(Copy data from: %1)","(Copier les données depuis : %1)"
+Role,Rôle
+"Product Alerts","Alertes du produit"
+"Advanced Settings","Paramètres avancés"
+"Changes have been made to this section that have not been saved.","Des modifications ont été apportées à cette section qui n'ont pas été enregistrées."
+"This tab contains invalid data. Please resolve this before saving.","Cet onglet contient des données invalides. Merci de les corriger avant d'enregistrer."
+Actions,Actions
+"Mass Actions","Action en masse"
+"Select All","Sélectionner tout"
+"Unselect All","Désélectionner tout"
+"Select Visible","Sélectionner les éléments visibles"
+"Unselect Visible","Désélectionner les éléments visibles"
+"Special Price","Prix spécial"
+"Regular Price","Prix normal"
+"Buy %1 for %2 each","Achetez-en %1 à %2 pièce"
+"Shop By","Filtrer par"
+"Shopping Options","Affiner la recherche"
+"Compare Products","Comparer des produits"
+"Print This Page","Imprimer cette page"
+"Add to Cart","Ajouter au panier"
+"In stock","En stock"
+"Out of stock",Épuisé
+"Add to Wish List","Ajouter à la liste d'envie"
+"You have no items to compare.","Vous n'avez pas d'articles à comparer."
+"Remove This Item","Supprimer cet élément"
+Compare,Comparer
+"Clear All","Tout supprimer"
+Prev,Précédent
+Next,Suivant
+"Add to Compare","Ajouter au comparateur"
+"Learn More","En savoir plus"
+"Check items to add to the cart or","Cochez les articles à ajouter au panier ou"
+"select all","sélectionner tout"
+Show,Afficher
+"per page","par page"
+"Sort By","Trier par"
+"Set Ascending Direction","Par ordre croissant"
+"Set Descending Direction","Par ordre décroissant"
+"View as","Afficher en"
+Loading...,"En cours de chargement..."
+"* Required Fields","* Champs obligatoires"
+Availability,Disponibilité
+Ok,OK
+Cancel,Annuler
+Submit,Valider
+"We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé."
+"Configure Product","Configurer le produit"
+OK,OK
+"Please add rows to option.","Veuillez ajouter des lignes à l'option."
+"New Option","Nouvelle option"
+"Please select items.","Sélectionnez des éléments."
+"unselect all","désélectionner tout"
+Thumbnail,Miniature
+"List Mode","Mode d'affichage"
+"Products per Page on Grid Allowed Values","Valeurs autorisées pour le nombre de produits par page dans l'affichage en grille"
+Comma-separated.,"Séparées par des virgules."
+"Products per Page on Grid Default Value","Valeur par défaut pour le nombre de produits par page dans l'affichage en grille"
+"Products per Page on List Allowed Values","Valeurs autorisées pour le nombre de produits par page dans l'affichage en liste"
+"Products per Page on List Default Value","Valeur par défaut pour le nombre de produits par page dans l'affichage en liste"
+"Use Flat Catalog Category","Utiliser le catalogue à plat pour les catégories"
+"Use Flat Catalog Product","Utiliser le catalogue à plat pour les produits"
+"Product Listing Sort by","Tri des listes de produits"
+"Allow All Products per Page","Autoriser tous les produits par page"
+"Allow Dynamic Media URLs in Products and Categories","Autoriser les URLs de media dynamiques dans les produits et catégories"
+"E.g. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Dynamic directives parsing impacts catalog performance.","Par ex. {{media url=""path/to/image.jpg""}} {{skin url=""path/to/picture.gif""}}. Le parsing des directives dynamiques peut affecter les performances du catalogue."
+"Product Image Placeholders","Emplacements de l'image par défaut des produits"
+"Search Engine Optimization","Optimisations pour les moteurs de recherche"
+"Page Title Separator","Séparateur de titre de page"
+"Use Canonical Link Meta Tag For Categories","Utiliser un lien canonique de meta tag pour les catégories"
+"Use Canonical Link Meta Tag For Products","Utiliser un lien canonique de meta tag pour les produits"
+"Catalog Price Scope","Portée des prix catalogue"
+"Category Top Navigation","Navigation dans les catégories"
+"Maximal Depth","Profondeur maxi"
+"Date & Time Custom Options","Options de date & heure personnalisées"
+"Use JavaScript Calendar","Utiliser le calendrier JavaScript"
+"Date Fields Order","Ordre des champs de date"
+"Time Format","Format d'heure"
+"Year Range","Période annuelle"
+"Product Image Watermarks","Filigranes d'images de produits"
+"Watermark Default Size","Taille par défaut du filigrane"
+"Watermark Opacity, Percent","Pourcentage d'opacité du filigrane"
+Watermark,Filigrane
+"Watermark Position","Positionnement du filigrane"
+"Use Static URLs for Media Content in WYSIWYG for Catalog","Utiliser les URLs statiques pour le contenu média dans l'éditeur WYSIWYG pour le catalogue"
+"Top Level Category","Catégorie de niveau supérieur"
+"Product Flat Data","Données fixes de produit"
+"Reorganize EAV product structure to flat structure","Réorganise la structure de produit EAV en une structure fixe"
+"Category Flat Data","Données fixes de catégorie"
+"Reorganize EAV category structure to flat structure","Réorganise la structure de catégorie EAV en une structure fixe"
+"Indexed category/products association","Index des associations catégorie/produits"
+"Product Categories","Catégories du produit"
+"Index product prices","Index des tarifs produit"
+"Catalog New Products List","Liste des nouveaux produits du catalogue"
+"List of Products that are set as New","Liste des produits configurés comme ""Nouveaux"""
+"New products","Nouveaux produits"
+"Display Page Control","Contrôle de l'affichage de la page"
+"Number of Products per Page","Nombre de produits par page"
+"Number of Products to Display","Nombre de produits à afficher"
+Template,Gabarit
+"New Products Grid Template","Gabarit des nouveaux produits sous forme de grille"
+"New Products List Template","Gabarit des nouveaux produits sous forme de liste"
+"Cache Lifetime (Seconds)","Durée de vie du cache (secondes)"
+"86400 by default, if not set. To refresh instantly, clear the Blocks HTML Output cache.","86400 par défaut, si non renseigné. Pour actualiser instantanément, purgez le cache des Blocs HTML de sortie."
+"Catalog Product Link","Lien produit catalogue"
+"Link to a Specified Product","Lien vers un produit spécifique"
+"Select Product...","Choisir un produit..."
+"Anchor Custom Text","Présenter un texte personnalisé"
+"Anchor Custom Title","Présenter un titre personnalisé"
+"Product Link Block Template","Gabarit de lien produit (bloc)"
+"Product Link Inline Template","Gabarit de lien produit (en ligne)"
+"Catalog Category Link","Lien vers les catégories de catalogue"
+"Link to a Specified Category","Lien vers une catégorie spécifique"
+"Select Category...","Choisir une catégorie..."
+"Category Link Block Template","Gabarit du bloc lien catégorie"
+"Category Link Inline Template","Gabarit inline de lien catégorie"
+"All Store Views","Toutes les vues magasin"
+"Change status","Changer le statut"
+Enable,Activer
+Disable,Désactiver
+"Update attributes","Mettre à jour les attributs"
+none,aucun
+Details,Détails

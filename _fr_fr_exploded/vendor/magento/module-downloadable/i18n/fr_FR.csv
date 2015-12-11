@@ -1,0 +1,80 @@
+"Downloadable Information","Informations téléchargements"
+"Upload Files","Télécharger les fichiers"
+"All Files","Tous les fichiers"
+Unlimited,Illimité
+"My Downloadable Products","Mes produits téléchargeables"
+"The link has expired.","Le lien a expiré."
+"The link is not available.","Le lien n'est pas disponible."
+"Sorry, there was an error getting requested content. Please contact the store owner.","Erreur lors de la récupération du contenu demandé. Veuillez contacter le magasin."
+"Please set resource file and link type.","Renseignez le fichier de ressource et le type de lien."
+"Invalid download link type.","Le type de lien de téléchargement est invalide."
+"Order id cannot be null","L'id de commande ne peut pas être null"
+"Order item id cannot be null","L'id d'article de commande ne peut pas être null"
+"Please specify product link(s).","Spécifiez le ou les liens des produits."
+attachment,"pièce jointe"
+inline,"en ligne"
+Pending,"En attente"
+Invoiced,Facturé
+sample,échantillon
+Links,Liens
+"[STORE VIEW]","[VUE MAGASIN]"
+Title,Titre
+"Use Default Value","Utiliser la valeur par défaut"
+[GLOBAL],[GLOBAL]
+"Links can be purchased separately","Les liens peuvent être achetés séparément"
+"Sort Order","Ordre de tri"
+Price,Prix
+Sample,Exemple
+Shareable,Partageable
+"Max. Downloads","Téléchargements max."
+"Alphanumeric, dash and underscore characters are recommended for filenames. Improper characters are replaced with '_'.","Les caractères alphanumériques, les tirets et les underscores sont recommandés pour les noms de fichiers. Les caractères impropres seront remplacés par des underscores."
+"Sort Variations","Trier les variations"
+File,Fichier
+"Browse Files...","Parcourir les fichiers..."
+URL,URL
+Yes,Oui
+No,Non
+"Use config","Utiliser la config"
+Delete,Supprimer
+Samples,Exemples
+SKU,Réf.
+U,U
+"Select all","Sélectionner tout"
+"Unselect all","Désélectionner tout"
+Availability,Disponibilité
+"In stock","En stock"
+"Out of stock",Épuisé
+"Go to <a href=""%1"">My Downloadable Products</a>","Aller à <a href=""%1"">Mes produits téléchargeables</a>"
+"Order #","Commande n°"
+Date,Date
+Status,Statut
+"Remaining Downloads","Téléchargements restants"
+"View Order",Visualiser
+"Start Download","Démarrage du téléchargement"
+"You have not purchased any downloadable products yet.","Vous n'avez pas encore commandé de produits téléchargeables."
+Back,Retour
+download,télécharger
+"Gift Message","Message du cadeau"
+From:,"De :"
+To:,"À :"
+Message:,"Message :"
+"Product Name","Nom du produit"
+Qty,Qté
+Subtotal,Sous-total
+"Discount Amount",Remise
+"Row Total","Total ligne"
+"Qty Invoiced","Qté facturée"
+Ordered,Commandé
+Shipped,Livré
+Canceled,Annulée
+Refunded,Remboursé
+"We could not detect a size.","Impossible de détecter le poids du fichier."
+"Downloadable Product Options","Options du produit téléchargeable"
+"Order Item Status to Enable Downloads","Statut du produit commandé pour activer le téléchargement"
+"Default Maximum Number of Downloads","Nombre maximum de téléchargements par défaut"
+"Default Sample Title","Titre de l'exemple par défaut"
+"Default Link Title","Titre de lien par défaut"
+"Open Links in New Window","Ouvrir les liens dans une nouvelle fenêtre"
+"Use Content-Disposition","Utiliser la disposition de contenu"
+"Disable Guest Checkout if Cart Contains Downloadable Items","Désactiver le passage de commande en tant qu'invité si le panier contient des produits téléchargeables"
+"Guest checkout will only work with shareable.","Le passage de commande en tant qu'invité ne fonctionnera qu'avec les partageables."

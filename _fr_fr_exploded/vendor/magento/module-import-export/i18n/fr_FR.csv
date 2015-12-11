@@ -1,0 +1,33 @@
+Export,Exporter
+"Export Settings","Paramètres d'export"
+"Entity Type","Type d'entité"
+"Export File Format","Format du fichier d'export"
+From,De
+To,À
+Exclude,Exclure
+"Attribute Label",Libellé
+"Attribute Code",Code
+Filter,Filtre
+Download,Télécharger
+"Check Data","Vérifier les données"
+Import,Importer
+"Import Settings","Paramètres d'import"
+"Import Behavior","Comportement d'import"
+"Select File to Import","Sélectionner le fichier à importer"
+Import/Export,Importer/Exporter
+Status,Statut
+"File is valid! To start import process press ""Import"" button","Le fichier est valide. Cliquez sur le bouton ""Importer"" pour démarrer le processus d'import."
+"in rows:","dans les lignes :"
+"Entity is unknown","L'entité est inconnue"
+"Destination file is not writable","Le fichier de destination n'a pas les droits en écriture"
+"-- Please Select --","-- Votre choix --"
+label,libellé
+Delete,Supprimer
+"Delete Entities","Effacer les entités"
+"URL key for specified store already exists.","La clé d'URL pour la boutique spécifiée existe déjà."
+"Entity Attributes","Attributs d'entité"
+Continue,Continuer
+"Validation Results","Résultat de validation"
+ID,ID
+User,Utilisateur
+Summary,Résumé

@@ -1,0 +1,48 @@
+"Create New Attribute","Créer un nouvel attribut"
+Summary,Résumé
+"Choose an Option...","Choisissez une option..."
+"This attribute is used in configurable products.","Cet attribut est utilisé dans les produits configurables."
+"Requested option doesn't exist","L'option demandée n'existe pas"
+"This attribute is used in configurable products. You cannot remove it from the attribute set.","Cet attribut est utilisé dans des produits configurables. Vous ne pouvez pas le retirer de ce jeu d'attributs."
+"Associated Products","Produits associés"
+"Step 2: Attribute Values","Étape 2 : valeurs d'attribut"
+"Select values from each attribute to include in this product. Each unique combination of values creates a unigue product SKU.","Sélectionnez les valeurs pour chaque attribut à inclure pour ce produit. Chaque combinaison unique de valeurs créera une unique référence produit."
+"Sort Variations","Trier les variations"
+Options,Options
+"Select All","Sélectionner tout"
+"Deselect All","Tout désélectionner"
+"Remove Attribute","Supprimer l'attribut"
+"Save Option","Sauvegarder Option"
+"Remove Option","Supprimer l'option"
+"Create New Value","Créez une nouvelle valeur"
+Images,Images
+"Browse Files...","Parcourir les fichiers..."
+"Edit role","Modifier le rôle"
+Role,Rôle
+Select,Sélectionnez
+Price,Prix
+Quantity,Quantité
+Image,Image
+Name,Nom
+SKU,Réf.
+Weight,Poids
+Actions,Actions
+"No Image","Pas d'image"
+Confirm,Confirmer
+Cancel,Annuler
+"Incl. Tax",TTC
+Done,Terminé
+"We could not detect a size.","Impossible de détecter le poids du fichier."
+"We don't recognize or support this file extension type.","Le type de fichier n'est pas reconnu ou n'est pas autorisé."
+"Configurable Product Image","Image de produit configurable"
+Status,Statut
+ID,ID
+Thumbnail,Miniature
+"Attribute Code",Code
+"Attribute Label",Libellé
+Required,Obligatoire
+System,Système
+Visible,Visible
+Scope,Portée
+Searchable,"Utiliser dans la recherche"
+Comparable,Comparable

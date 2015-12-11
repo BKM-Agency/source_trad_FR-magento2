@@ -1,0 +1,25 @@
+Save,Sauvegarder
+General,Général
+Name,Nom
+Email,Email
+"Callback URL","URL de rappel"
+Remove,Supprimer
+View,Voir
+Edit,Éditer
+Activate,Activez
+"You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé."
+Inactive,Inactif
+Active,Actif
+"Invalid Callback URL","URL de rappel invalide"
+"Invalid Rejected Callback URL","URL de rappel rejeté invalide"
+"Resource Access","Accès aux ressources"
+Custom,Personnalisé
+All,Tous
+Resources,Ressources
+Allow,Autoriser
+Done,Terminé
+OAuth,OAuth
+"Cleanup Settings","Paramètres de nettoyage"
+"Cleanup Probability","Probabilité de nettoyage"
+"Expiration Period","Période d'expiration"
+Status,Statut

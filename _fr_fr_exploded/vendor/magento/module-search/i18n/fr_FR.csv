@@ -1,0 +1,52 @@
+"Search Term","Terme de recherche"
+Results,Résultats
+Uses,"Nombre d'utilisations"
+"Search Terms","Termes de recherche"
+Search,Chercher
+"Add New Search Term","Ajouter un terme de recherche"
+"Save Search","Sauvegarder la recherche"
+"Delete Search","Supprimer la recherche"
+"Edit Search '%1'","Éditer la recherche '%1'"
+"New Search","Nouvelle recherche"
+"Search Information","Informations de recherche"
+"General Information","Informations générales"
+No,Non
+Yes,Oui
+"Search Query","Termes de recherche"
+Store,Magasin
+"Number of results","Nombre de résultats"
+"Number of results (For the last time placed)","Nombre de résultats (retournés lors de la dernière recherche)"
+"For the last time placed.","Lors de la dernière requête."
+"Number of Uses","Nombre d'utilisations"
+"Synonym For","Synonyme de"
+"Will make search for the query above return results for this search","Exécutera la recherche pour la recherche ci-dessus et en retournera les résultats."
+"Redirect URL","URL de redirection"
+"ex. http://domain.com","ex : http://domaine.com"
+"Display in Suggested Terms","Afficher dans les termes suggérés"
+"You deleted the search.","La recherche a été supprimée."
+"We can't find a search term to delete.","Impossible de trouver le terme à supprimer."
+"This search no longer exists.","Cette recherche n'existe plus."
+"Edit Search","Modifier la recherche"
+"Please select searches.","Merci de sélectionner les recherches."
+"Total of %1 record(s) were deleted.","%1 enregistrement(s) ont été effacés."
+Reports,Rapports
+"Search Terms Report","Rapport des termes de recherche"
+"You saved the search term.","Le terme de recherche a été sauvegardé."
+"Something went wrong while saving the search query.","Une erreur s'est produite pendant l'enregistrement de la requête de recherche."
+"You already have an identical search term query.","Il existe déjà une requête de recherche identique."
+"Your search query can't be longer than %1, so we shortened your query.","La requête de rechercher ne peut pas excéder %1 caractères. Merci de raccourcir la requête."
+"Search entire store here...",Rechercher...
+"There are no search terms available.","Aucun terme de recherche disponible."
+"Search Engine","Moteur de recherche"
+CSV,CSV
+"Excel XML","XML d'Excel"
+ID,ID
+Hits,Vues
+Delete,Supprimer
+"Are you sure?","Êtes-vous sûr(e) ?"
+Synonym,Synonymes
+"Suggested Terms","Termes suggérés"
+yes,oui
+no,non
+Action,Action
+Edit,Éditer

@@ -1,0 +1,22 @@
+"Indexer Management","Gestion des indexes"
+"Update by Schedule","Mise à jour périodique"
+"Update on Save","Mise à jour à la sauvegarde"
+"Reindex required","Réindexation nécessaire"
+Ready,Prêt
+Processing,"En cours de traitement"
+Never,Jamais
+"Index Management","Gestion des indexes"
+"Please select indexers.","Merci de sélectionner les indexes."
+"%1 indexer(s) are in ""Update by Schedule"" mode.","%1 indexe(s) sont en mode ""Mise à jour périodique""."
+"We couldn't change indexer(s)' mode because of an error.","Impossible de modifier le mode des indexes en raison d'une erreur."
+"%1 indexer(s) are in ""Update on Save"" mode.","%1 indexe(s) sont en mode ""Mise à jour à la sauvegarde""."
+"One or more <a href=""%1"">indexers are invalid</a>. Make sure your <a href=""%2"" target=""_blank"">Magento cron job</a> is running.","Un ou plusieurs <a href=""%1"">indexes sont invalides</a>. Assurez-vous que <a href""%2"">les tâches périodiques de Magento</a> sont fonctionnelles."
+"State for the same indexer","État pour la même indexe"
+"State for the same view","État pour la même vue"
+"Some Exception Message","Some Exception Message"
+"Test Phrase","Phrase de test"
+Indexer,Indexe
+Description,Description
+Mode,Mode
+Status,Statut
+Updated,"Mis à jour"

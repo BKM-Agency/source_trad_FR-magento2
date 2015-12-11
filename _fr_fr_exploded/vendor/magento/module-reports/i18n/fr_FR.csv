@@ -1,0 +1,153 @@
+"New Accounts","Nouveaux comptes"
+"Customers by number of orders","Clients par nombre de commandes"
+"Customers by Orders Total","Clients par montant de commande"
+Filter,Filtre
+Day,Jour
+Month,Mois
+Year,Année
+Period,Période
+From,De
+To,À
+Yes,Oui
+No,Non
+"Empty Rows","Lignes vides"
+Refresh,Rafraîchir
+"Show Reviews","Afficher les commentaires"
+"Products Report","Rapport produits"
+Downloads,Téléchargements
+Product,Produit
+Link,Lien
+SKU,Réf.
+Purchases,Commandes
+CSV,CSV
+"Excel XML","XML d'Excel"
+Unlimited,Illimité
+"Low stock","Stock bas"
+"Products Ordered","Produits commandés"
+"Most Viewed","Les plus consultés"
+"Show Report","Afficher le rapport"
+Total,Total
+Price,Prix
+Views,Vues
+"Refresh Statistics","Actualiser les statistiques"
+"Customers Reviews","Clients ayant commenté"
+"Reviews for %1","Commentaires pour %1"
+Customer,Client
+Title,Titre
+Detail,Détail
+"Products Reviews","Produits commentés"
+"Products Bestsellers Report","Rapport des meilleures ventes"
+"Coupons Usage Report","Rapport des utilisations des bons de réduction"
+Subtotal,Sous-total
+"Coupon Code","Code du bon de réduction"
+Uses,"Nombre d'utilisations"
+"Sales Discount",Remises
+"Sales Total","Total des ventes"
+Discount,Remise
+"Total Invoiced vs. Paid Report","Rapport du facturé en fonction du payé"
+Orders,Commandes
+"Total Invoiced","Total de la facture"
+"Total Refunded Report","Rapport des remboursements"
+"Total Refunded","Total remboursé"
+"Total Ordered Report","Rapport du total commandé"
+"Sales Items","Articles vendus"
+Items,Articles
+Revenue,Revenu
+Profit,Bénéfice
+Invoiced,Facturé
+Paid,Payée
+Refunded,Remboursé
+"Sales Tax",Taxes
+Tax,"TVA & autres taxes"
+"Sales Shipping",Expéditions
+Shipping,Livraison
+Canceled,Annulée
+"Total Shipped Report","Rapport des expéditions"
+Carrier/Method,Transporteur/Méthode
+"Total Sales Shipping","Total des ventes d'expédition"
+"Total Shipping","Total expédition"
+"Order Taxes Report Grouped by Tax Rate","Rapport de TVA & taxes groupées par taux de taxe"
+Rate,Taux
+"Tax Amount","Montant TVA"
+"Abandoned carts","Paniers abandonnés"
+Email,Email
+Products,Produits
+Quantity,Quantité
+"Applied Coupon","Coupons utilisés"
+Updated,"Mis à jour"
+"IP Address","Adresse IP"
+Customers,Clients
+ID,ID
+"First Name",Prénom
+"Last Name",Nom
+"Items in Cart","Articles dans le panier"
+"Products in carts","Produits dans des paniers"
+Carts,Paniers
+Name,Nom
+Reports,Rapports
+"Last updated: %1. To refresh last day's <a href=""%2"">statistics</a>, click <a href=""%3"">here</a>.","Dernière mise à jour : %1. Pour rafraîchir les <a href=""%2"">statistiques</a> du dernier jour, <a href=""%3"">cliquez ici</a>."
+"Customers by Number of Orders","Clients par nombre de commandes"
+"Low Stock","Stock bas"
+"Products Most Viewed Report","Rapport des produits les plus vus"
+Review,Commentaire
+Reviews,Commentaires
+"Customers Report","Rapport clients"
+"Product Reviews",Commentaires
+Details,Détails
+Sales,Ventes
+Coupons,"Bons de réduction"
+"Sales Report","Rapport des ventes"
+"Shopping Cart",Panier
+"Abandoned Carts","Paniers abandonnés"
+"Customer Shopping Carts","Paniers du client"
+"Products in Carts","Produits dans des paniers"
+Statistics,Statistiques
+"We can't refresh lifetime statistics.","Impossible de rafraîchir les statistiques."
+"Recent statistics have been updated.","Les statistiques récentes ont été mise à jour."
+"Order Taxes Report Grouped by Tax Rates","Rapport de taxes de commande groupés par taux d'imposition"
+"Total Invoiced VS Paid Report","Rapport du facturé en fonction du payé"
+"Promotion Coupons Usage Report","Rapport d'utilisation des bons de promotion"
+Bestsellers,"Meilleures ventes"
+"Most Viewed Products Report","Rapport des produits les plus consultés"
+Error,Erreur
+"Show By","Afficher par"
+"Select Date","Sélectionner une date"
+"Show Report For:","Afficher le rapport pour :"
+"All Websites","Tous les sites web"
+"Recently Viewed","Vu récemment"
+"Add to Cart","Ajouter au panier"
+"In stock","En stock"
+"Out of stock",Épuisé
+"Add to Wish List","Ajouter à la liste d'envie"
+"Add to Compare","Ajouter au comparateur"
+"Recently Compared","Dernières comparaisons"
+"Learn More","En savoir plus"
+"Recently Viewed/Compared Products","Produits récemment consultés/comparés"
+"Show for Current","Afficher pour le"
+"Default Recently Viewed Products Count","Nombre de produits récemment consultés par défaut"
+"Default Recently Compared Products Count","Nombre de produits récemment comparés par défaut"
+Dashboard,"Tableau de bord"
+"Year-To-Date Starts","L'année en cours commence le"
+"Current Month Starts","Le mois en cours commence le"
+"Select day of the month.","Choisissez le jour du mois."
+"Recently Viewed Products","Derniers produits consultés"
+"List of Products Recently Viewed by Visitor","Liste des derniers produits vus par le visiteur"
+"Number of Products to display","Nombre de produits à afficher"
+"Viewed Products Grid Template","Gabarit de grille de produits vus"
+"Viewed Products List Template","Gabarit de liste de produits vus"
+"Recently Compared Products","Derniers produits comparés"
+"List of Products Recently Compared and Removed from the Compare List by Visitor","Liste des derniers produits comparés et enlevés de la liste de comparaison par un visiteur"
+"Compared Products Grid Template","Gabarit de grille de produits comparés"
+"Compared Products List Template","Gabarit de liste de produits comparés"
+Average,Moyen
+Guest,Invité
+Action,Action
+"Last Review","Dernier commentaire"
+"Last Invoice Created Date","Date de création de la dernière facture"
+"Last Credit Memo Created Date","Date de création du dernier avoir"
+"First Invoice Created Date","Date de création de la première facture"
+"Refresh Lifetime Statistics","Rafraichir les statistiques depuis le début"
+"Refresh Statistics for the Last Day","Rafraichir les statistiques pour le dernier jour"
+Report,Rapport
+Description,Description
+undefined,indéfini

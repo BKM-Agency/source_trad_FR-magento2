@@ -1,0 +1,110 @@
+"Static Blocks","Blocs statiques"
+"Add New Block","Ajouter un nouveau bloc"
+"Save Block","Sauvegarder le bloc"
+"Delete Block","Supprimer le bloc"
+"Save and Continue Edit","Sauvegarder et continuer à éditer"
+"Edit Block '%1'","Éditer le bloc '%1'"
+"New Block","Nouveau bloc"
+"Block Information",Information
+"General Information","Informations générales"
+"Block Title","Titre du bloc"
+Identifier,Identifiant
+"Store View","Vue magasin"
+Status,Statut
+Enabled,Activé
+Disabled,Désactivé
+Content,Contenu
+ID,ID
+Title,Titre
+"Manage Pages","Gestion des pages"
+"Add New Page","Ajouter une nouvelle page"
+"Save Page","Sauvegarder la page"
+"Delete Page","Supprimer la page"
+"Edit Page '%1'","Éditer la page '%1'"
+"New Page","Nouvelle page"
+"Content Heading","En-tête de contenu"
+"Page Layout","Agencement de page"
+Layout,Agencement
+"Layout Update XML","XML de mise à jour d'agencement"
+"Custom Design","Design personnalisé"
+"Custom Design From","Design personnalisé à partir du"
+"Custom Design To","Design personnalisé jusqu'au"
+"-- Please Select --","-- Votre choix --"
+"Custom Theme","Thème personnalisé"
+"Custom Layout","Agencement personnalisé"
+"Custom Layout Update XML","XML de mise à jour de l'agencement personnalisé"
+Design,Design
+"Page Information","Informations de la page"
+"Page Title","Titre de page"
+"URL Key","Clé d'URL"
+"Page Status","Statut de la page"
+"Meta Data","Données meta"
+Keywords,"Mots clés"
+"Meta Keywords","Mots-clés meta"
+Description,Description
+"Meta Description","Méta description"
+Action,Action
+Preview,Prévisualiser
+"Media Storage","Stockage des medias"
+"Create Folder...","Créer un dossier..."
+"Delete Folder","Supprimer le dossier"
+"Delete File","Supprimer le fichier"
+"Insert File","Insérer le fichier"
+"New Folder Name:","Nouveau nom de dossier :"
+"Images (%1)","Images (%1)"
+"Storage Root","Racine du stockage"
+Home,Accueil
+"Go to Home Page","Aller à la page d'accueil"
+CMS,CMS
+"This block no longer exists.","Ce bloc n'existe plus."
+"Edit Block","Éditer le bloc"
+"Please correct the data sent.","Merci de corriger les données envoyées."
+"The page has been deleted.","La page a bien été effacée."
+"This page no longer exists.","Cette page n'existe plus."
+"Edit Page","Éditer la page"
+Pages,Pages
+"The directory %1 is not writable by server.","Le répertoire %1 n'a pas les droits d'écriture par le serveur web."
+"Enabled by Default","Activé par défaut"
+"Disabled by Default","Désactivé par défaut"
+"Disabled Completely","Désactivé complètement"
+"A block identifier with the same properties already exists in the selected store.","Il existe déjà un identifiant de bloc ayant les mêmes propriétés dans la boutique sélectionnée."
+"The page URL key contains capital letters or disallowed symbols.","La clé d'url de page contient des lettres majuscules ou des symboles non autorisés."
+"All Store Views","Toutes les vues magasin"
+Edit,Éditer
+Delete,Supprimer
+Details,Détails
+px.,px.
+"No files found","Aucun fichier trouvé"
+"Browse Files...","Parcourir les fichiers..."
+"Collapse All","Tout réduire"
+"Expand All","Tout développer"
+"We could not detect a size.","Impossible de détecter le poids du fichier."
+"CMS Home Page","Page d'accueil CMS"
+"CMS No Route Page","Page CMS de ressource non trouvée"
+"CMS No Cookies Page","Page CMS quand les cookies sont désactivés"
+"Show Breadcrumbs for CMS Pages","Afficher le fil d'Ariane pour les pages CMS"
+"Browser Capabilities Detection","Détection des capacités du navigateur"
+"Redirect to CMS-page if Cookies are Disabled","Rediriger vers la page CMS si les cookies sont désactivés"
+"Show Notice if JavaScript is Disabled","Afficher un message si javascript est désactivé"
+"Content Management","Gestion du contenu"
+"WYSIWYG Options","Options WYSIWYG"
+"Enable WYSIWYG Editor","Activer l'éditeur WYSIWYG"
+"CMS Page Link","Lien Page CMS"
+"Link to a CMS Page","Lien vers une page CMS"
+"CMS Page","Page CMS"
+"Select Page...","Choisir une page..."
+"Anchor Custom Text","Présenter un texte personnalisé"
+"If empty, the Page Title will be used","Si vide, le titre de page sera utilisé"
+"Anchor Custom Title","Présenter un titre personnalisé"
+Template,Gabarit
+"CMS Page Link Block Template","Gabarit du bloc lien page CMS"
+"CMS Page Link Inline Template","Gabarit du bloc lien en ligne CMS"
+"CMS Static Block","Bloc statique CMS"
+"Contents of a Static Block","Contenu d'un bloc statique"
+Block,Bloc
+"Select Block...","Choisir un bloc..."
+"CMS Static Block Default Template","Gabarit par défaut du bloc statique CMS"
+Disable,Désactiver
+Enable,Activer
+"Custom design from","Design personnalisé à partir du"
+"Custom design to","Design personnalisé jusqu'au"

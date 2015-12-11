@@ -1,0 +1,110 @@
+"Delete Selected Problems","Supprimer les problèmes sélectionnés"
+"Unsubscribe Selected","Désinscription sélectionnée"
+Back,Retour
+Reset,Réinitialiser
+"Preview Template","Prévisualiser le gabarit"
+"Save Newsletter","Sauvegarder la newsletter"
+"Save and Resume","Sauvegarder et continuer"
+"View Newsletter","Voir la newsletter"
+"Edit Newsletter","Éditer la newsletter"
+"Queue Information","Informations de file"
+"Queue Date Start","Date de démarrage de la file"
+"Subscribers From","Abonnés de"
+Subject,Sujet
+"Sender Name","Nom de l'expéditeur"
+"Sender Email","Email de l'expéditeur"
+Message,Message
+"Newsletter Styles","Styles de newsletter"
+Start,Commencer
+Pause,Pause
+"Do you really want to cancel the queue?","Voulez-vous vraiment supprimer la file ?"
+Cancel,Annuler
+Resume,Reprendre
+Preview,Prévisualiser
+"Add New Template","Ajouter un nouveau gabarit"
+"Newsletter Templates","Gabarits newsletter"
+"Convert to Plain Text","Convertir en texte simple"
+"Return HTML Version","Revenir à la version HTML"
+"Delete Template","Supprimer le gabarit"
+"Save As","Sauvegarder sous"
+"Save Template","Sauvegarder le gabarit"
+"Edit Newsletter Template","Éditer le gabarit de newsletter"
+"New Newsletter Template","Nouveau gabarit de newsletter"
+"Template Information","Informations gabarit"
+"Template Name","Nom du gabarit"
+"Template Subject","Sujet du gabarit"
+"Template Content","Contenu du gabarit"
+"Template Styles","Styles de gabarit"
+"No Templates Found","Aucun gabarit trouvé"
+ID,ID
+Template,Gabarit
+Updated,"Mis à jour"
+Sender,Expéditeur
+"Template Type","Type de gabarit"
+Action,Action
+"Newsletter Problem Reports","Rapports des problèmes de newsletter"
+"Newsletter Queue","File d'attente newsletter"
+"Edit Queue","Éditer file"
+"Newsletter Subscribers","Abonnés à la newsletter"
+Newsletter,Newsletter
+Subscribers,Abonnés
+"Total of %1 record(s) were deleted.","%1 enregistrement(s) ont été effacés."
+"Edit Template","Éditer le gabarit"
+"New Template","Nouveau gabarit"
+"Create Newsletter Template","Créer un nouveau gabarit de newsletter"
+"Newsletter Subscription","Abonnement à la newsletter"
+"Your subscription has been confirmed.","Votre inscription a été confirmée."
+"This email address is already assigned to another user.","Cet email est déjà assigné à un utilisateur."
+"Please enter a valid email address.","Saisissez un email valide."
+"Thank you for your subscription.","Merci de votre inscription."
+"There was a problem with the subscription: %1","Il y a eu un problème lors de l'inscription : %1"
+Sent,Envoyé
+Cancelled,Annulé
+"Not Sent","Pas envoyé"
+Sending,"Envoi en cours"
+Paused,Arrêté
+"Follow this link to unsubscribe <!-- This tag is for unsubscribe link  --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>","Cliquez sur ce lien pour vous désinscrire <!-- Sert au lien de désinscription --><a href=""{{var subscriber.getUnsubscriptionLink()}}"">{{var subscriber.getUnsubscriptionLink()}}</a>"
+"Choose Store View:","Choisir la vue magasin :"
+"Newsletter Message Preview","Prévisualisation du message de la newsletter"
+"Add to Queue","Ajouter à la file"
+"Are you sure that you want to strip all tags?","Êtes-vous sûr(e) de vouloir supprimer tous les tags ?"
+" Copy"," Copie"
+"Sign Up for Our Newsletter:","Inscription à notre newsletter :"
+"Enter your email address","Saisissez votre email"
+Subscribe,Inscription
+"Subscription Options","Options d'inscription"
+"Allow Guest Subscription","Autoriser l'inscription des invités"
+"Need to Confirm","Confirmation nécessaire"
+"Confirmation Email Sender","Expéditeur du mail de confirmation"
+"Confirmation Email Template","Gabarit du mail de confirmation"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"Success Email Sender","Expéditeur du mail de succès"
+"Success Email Template","Gabarit du mail de succès"
+"Unsubscription Email Sender","Expéditeur du mail de désinscription"
+"Unsubscription Email Template","Gabarit du mail de désinscription"
+Subscriber,Abonné
+"Queue Subject","Sujet de la file"
+"Error Code","Code d'erreur"
+"Error Text","Texte d'erreur"
+"Queue Start","Début de la file"
+Status,Statut
+Processed,Terminé
+Recipients,Destinataires
+Unsubscribe,Désabonner
+Delete,Supprimer
+CSV,CSV
+"Excel XML","XML d'Excel"
+Email,Email
+Type,Type
+Guest,Invité
+Customer,Client
+"Customer First Name","Prénom du client"
+"Customer Last Name","Nom de famille du client"
+"Not Activated","Non activé"
+Subscribed,Inscrit
+Unsubscribed,Désinscrit
+Unconfirmed,"Non confirmé"
+"Web Site","Site Web"
+Store,Magasin
+"Store View","Vue magasin"
+"Newsletter Subscriptions","Abonnements à la newsletter"

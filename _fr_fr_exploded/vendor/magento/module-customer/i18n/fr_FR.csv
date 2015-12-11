@@ -1,0 +1,291 @@
+"Sign Out",Déconnexion
+"Sign In",Connexion
+"You have not set a default shipping address.","Vous n'avez pas spécifié d'adresse de livraison par défaut."
+"You have not set a default billing address.","Vous n'avez pas spécifié d'adresse de facturation par défaut."
+"Address Book","Carnet d'adresses"
+"Edit Address","Éditer l'adresse"
+"Add New Address","Ajouter une nouvelle adresse"
+region,région
+"Create Order","Créer une commande"
+"Save Customer","Sauvegarder le client"
+"Delete Customer","Supprimer le client"
+"Reset Password","Réinitialiser le mot de passe"
+"New Customer","Nouveau client"
+"Save and Continue Edit","Sauvegarder et continuer à éditer"
+Back,Retour
+"Please select","Veuillez sélectionner"
+Reset,Réinitialiser
+ID,ID
+Product,Produit
+SKU,Réf.
+Quantity,Quantité
+Price,Prix
+Total,Total
+Action,Action
+Configure,Configurer
+Delete,Supprimer
+"Shopping Cart from %1","Panier de %1"
+Newsletter,Newsletter
+"Newsletter Information","Informations newsletter"
+"Last Date Subscribed","Date de dernière inscription"
+"Last Date Unsubscribed","Date de dernière désinscription"
+"No Newsletter Found","Pas de newsletter"
+"Start date","Date de début"
+Subject,Sujet
+Status,Statut
+Sent,Envoyé
+Cancel,Annuler
+"Not Sent","Pas envoyé"
+Sending,"Envoi en cours"
+Paused,Arrêté
+View,Voir
+Unknown,Inconnu
+Order,Commande
+"Order Total","Total de la commande"
+"Customer View","Vue client"
+Qty,Qté
+Confirmed,Confirmé
+"The customer does not have default billing address.","Le client n'a pas d'adresse de facturation par défaut."
+Offline,Déconnecté
+Online,"En ligne"
+Never,Jamais
+"Deleted Stores","Magasins effacés"
+No,Non
+Yes,Oui
+"Delete File","Supprimer le fichier"
+Download,Télécharger
+"Delete Image","Effacer l'image"
+"View Full Size","Voir en pleine taille"
+"All countries","Tous les pays"
+"Customer Groups","Groupes clients"
+"Add New Customer Group","Ajouter un nouveau groupe de clients"
+"Save Customer Group","Sauvegarder le groupe clients"
+"Delete Customer Group","Supprimer le groupe de clients"
+"New Customer Group","Nouveau groupe de clients"
+"Edit Customer Group ""%1""","Éditer le groupe clients ""%1"""
+"Group Information","Informations du groupe"
+"Group Name","Nom de groupe"
+"Maximum length must be less then %1 symbols","La longueur maximale est de %1 symboles"
+"Tax Class","Classe de TVA"
+"Would you like to change the Customer Group for this order?","Souhaitez-vous changer le groupe client pour cette commande ?"
+"The VAT ID entered (%s) is not a valid VAT ID.","Le numéro de TVA saisi (%s) n'est pas un numéro de TVA valide."
+"The VAT ID is valid. The current Customer Group will be used.","Le numéro de TVA est valide. Le groupe client en cours sera utilisé."
+"Validate VAT Number","Valider le numéro de TVA"
+"Customer Login","Identifiant client"
+"Create New Customer Account","Créer un nouveau compte client"
+"Date of Birth","Date de naissance"
+"Bad request.","Non trouvé."
+"Thank you for registering with %1.","Merci de votre inscription sur %1."
+"This email does not require confirmation.","Cet email ne nécessite pas de confirmation."
+"Wrong email.","Email erroné."
+"Your password reset link has expired.","Le lien de réinitialisation de mot de passe a expiré."
+"There is already an account with this email address. If you are sure that it is your email address, <a href=""%1"">click here</a> to get your password and access your account.","Il existe déjà un compte pour cet email. Si vous êtes sûr d'avoir correctement saisi votre email, <a href=""%1"">cliquez ici</a> pour récupérer votre mot de passe et accéder à votre compte."
+"Please make sure your passwords match.","Vérifiez que vos mots de passe concordent."
+"Account Information","Informations du compte"
+"Please enter your email.","Saisissez votre email."
+"If there is an account associated with %1 you will receive an email with a link to reset your password.","S'il y a un compte associé à l'adresse %1, vous recevrez un email avec un lien pour réinitialiser votre mot de passe."
+"My Account","Mon compte"
+"This account is not confirmed. <a href=""%1"">Click here</a> to resend confirmation email.","Ce compte n'a pas encore été confirmé. <a href=""%1"">Cliquez ici</a> Pour envoyer un nouvel email de confirmation."
+"Invalid login or password.","Identifiant ou mot de passe invalide."
+"No customer ID defined.","Aucun id de client n'a été défini."
+Customers,Clients
+"New Group","Nouveau groupe"
+"New Customer Groups","Nouveaux groupes de clients"
+"Edit Group","Éditer le groupe"
+"Edit Customer Groups","Éditer les groupes de client"
+"Please select customer(s).","Sélectionnez au moins un client."
+"Manage Customers","Gérer les clients"
+"Please correct the data sent.","Merci de corriger les données envoyées."
+"Page not found.","Page introuvable."
+"Online Customers","Clients en ligne"
+"This account is not confirmed.","Ce compte n'est pas confirmé."
+"Please enter the first name.","Veuillez renseigner le prénom."
+"Please enter the last name.","Veuillez renseigner le nom de famille."
+"Please enter the street.","Veuillez renseigner la rue."
+"Please enter the city.","Veuillez renseigner la ville."
+"Please enter the zip/postal code.","Veuillez renseigner le code postal."
+"Please enter the country.","Veuillez renseigner le pays."
+"Please enter the state/province.","Veuillez renseigner le département."
+"""%1"" is a required value.","""%1"" est une valeur obligatoire."
+Global,GLOBAL
+"Per Website","Par site web"
+"Billing Address","Adresse de facturation"
+"Shipping Address","Adresse de livraison"
+"-- Please Select --","-- Votre choix --"
+Admin,Administration
+"Attribute object is undefined","L'objet attribut est indéfini"
+"""%1"" invalid type entered.","Le type de ""%1"" saisi est invalide."
+"""%1"" is an empty string.","""%1"" est une chaîne vide."
+"""%1"" is not a valid email address.","""%1"" n'est pas un email valide."
+"""%1"" is not a valid hostname.","""%1"" n'est pas un nom d'hôte valide."
+"""%1"" is not a valid URL.","""%1"" n'est pas une URL valide."
+"""%1"" is not a valid date.","""%1"" n'est pas une date valide."
+"""%1"" does not fit the entered date format.","""%1"" ne correspond pas au format de date saisi."
+"Please enter a valid date between %1 and %2 at %3.","Veuillez saisir une date valide comprise entre %1 et %2 à %3."
+"Please enter a valid date equal to or greater than %1 at %2.","Veuillez saisir une date valide supérieure ou égale à %1 à %2."
+"Please enter a valid date less than or equal to %1 at %2.","Veuillez saisir une date valide inférieure ou égale à %1 à %2."
+"""%1"" is not a valid file extension.","""%1"" n'est pas une extension de fichier valide."
+"""%1"" is not a valid file.","""%1"" n'est pas un fichier valide."
+"""%1"" exceeds the allowed file size.","""%1"" excède la taille maxi autorisée pour les fichiers."
+"""%1"" width exceeds allowed value of %2 px.","La largeur de ""%1"" excède la valeur de %2 px."
+"""%1"" height exceeds allowed value of %2 px.","La hauteur de ""%1"" excède la valeur de %2 px."
+"""%1"" length must be equal or greater than %2 characters.","La longueur de ""%1"" doit être supérieure ou égale à %2 caractères."
+"""%1"" length must be equal or less than %2 characters.","La longueur de ""%1"" doit être égale ou inférieure à %2 caractères."
+label,libellé
+"Customer Group","Groupe de clients"
+"PHP SOAP extension is required.","L'extension SOAP de PHP est requise."
+"Your VAT ID was successfully validated.","Votre numéro de TVA a bien été validé."
+"You will be charged tax.","La TVA vous sera appliquée."
+"You will not be charged tax.","La TVA ne vous sera pas appliquée."
+"The VAT ID entered (%1) is not a valid VAT ID.","Le numéro de TVA saisi (%1) n'est pas un numéro de TVA valide."
+"Your Tax ID cannot be validated.","Votre numéro de TVA ne peut pas être validé."
+"If you believe this is an error, please contact us at %1","Si vous pensez que c'est une erreur, contactez-nous à %1"
+message,message
+Label,Libellé
+Edit,Éditer
+Visitor,Visiteur
+Customer,Client
+"No item specified.","Aucun article spécifié."
+"Personal Information","Informations personnelles"
+"Last Logged In:","Dernière connection le :"
+"Last Logged In (%1):","Dernière connection (%1) le :"
+"Confirmed email:","Email confirmé :"
+"Account Created on (%1):","Compte créé le (%1) :"
+"Account Created in:","Compte créé dans :"
+"Customer Group:","Groupe de clients :"
+"Default Billing Address","Adresse de facturation par défaut"
+"Sales Statistics","Statistiques de ventes"
+"Web Site","Site Web"
+Store,Magasin
+"Store View","Vue magasin"
+"Lifetime Sales","Ventes depuis le début"
+"Average Sale","Ventes moyennes"
+"All Store Views","Toutes les vues magasin"
+Change,Modifier
+"Manage Addresses","Gérer les adresses"
+"Default Shipping Address","Adresse de livraison par défaut"
+"Contact Information","Informations de contact"
+"Change Password","Modifier le mot de passe"
+Newsletters,Newsletters
+or,ou
+"Default Addresses","Adresses par défaut"
+"Change Billing Address","Modifier l'adresse de facturation"
+"You have no default billing address in your address book.","Vous n'avez pas d'adresse de facturation par défaut dans votre carnet d'adresses."
+"Change Shipping Address",Modifier
+"You have no default shipping address in your address book.","Vous n'avez pas d'adresse de livraison par défaut dans votre carnet d'adresses."
+"Additional Address Entries","Saisies d'adresses supplémentaires"
+"Delete Address","Effacer l'adresse"
+"* Required Fields","* Champs obligatoires"
+Company,Société
+"Phone Number","Numéro de téléphone"
+Fax,Fax
+Address,Adresse
+"Street Address",Adresse
+"Street Address %1","Rue - Voie – Bât. %1"
+"VAT Number","Numéro de TVA"
+City,Ville
+State/Province,État/Région
+"Please select a region, state or province.","Merci de sélectionner une région, une état ou une province."
+"Zip/Postal Code","Code postal"
+Country,Pays
+"Use as my default billing address","Utiliser comme adresse de facturation par défaut"
+"Use as my default shipping address","Utiliser comme adresse de <strong>livraison</strong> par défaut"
+"Save Address","Sauvegarder l'adresse"
+Email,Email
+"Send confirmation link","Envoyer un lien de confirmation"
+"Current Password","Mot de passe actuel"
+"New Password","Nouveau mot de passe"
+"Confirm New Password","Confirmer le nouveau mot de passe"
+Save,Sauvegarder
+Submit,Valider
+"Registered Customers","Clients enregistrés"
+Password,"Mot de passe"
+Login,Connexion
+"Forgot Your Password?","Mot de passe oublié ?"
+"General Subscription","Je m'abonne"
+"Sign Up for Newsletter","Abonnez-vous à la newsletter"
+"Address Information","Informations d'adresse"
+"Confirm Password","Confirmer le mot de passe"
+"Create an Account","Créer un compte"
+"New Customers","Nouveaux clients"
+Gender,Sexe
+Name,Nom
+"Tax/VAT number","Numéro de TVA intracommunautaire"
+"%name,","%name,"
+"Welcome to %store_name.","Bienvenue sur %store_name."
+"To sign in to our site, use these credentials during checkout or on the <a href=""%customer_url"">My Account</a> page:","Pour vous connecter sur notre boutique, utilisez les identifiants renseignés lors de votre commande ou en vous rendant sur la page <a href=""%customer_url"">Mon compte</a> :"
+Email:,"Email :"
+Password:,"Mot de passe :"
+"Password you set when creating account","Celui que vous avez défini lors de la création de votre compte"
+"Forgot your account password? Click <a href=""%reset_url"">here</a> to reset it.","Mot de passe oublié ? Cliquez <a href=""%reset_url"">ici</a> pour le réinitialiser."
+"When you sign in to your account, you will be able to:","Lorsque vous vous connecter à votre compte, vous pourrez :"
+"Proceed through checkout faster","Passer vos commandes plus rapidement"
+"Check the status of orders","Vérifier le statut des commandes"
+"View past orders","Voir vos commandes précédentes"
+"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
+"Are you sure you want to delete this address?","Êtes-vous sûr(e) de vouloir effacer cette adresse ?"
+"Customer Configuration","Configuration client"
+"Account Sharing Options","Options de partage de compte"
+"Share Customer Accounts","Partager les comptes client"
+"Create New Account Options","Options de création de nouveaux comptes"
+"Enable Automatic Assignment to Customer Group","Activer l'assignation automatique à un groupe clients"
+"Tax Calculation Based On","Calcul de taxe basé sur"
+"Default Group","Groupe par défaut"
+"Group for Valid VAT ID - Domestic","Groupe pour un numéro de TVA invalide - Domestique"
+"Group for Valid VAT ID - Intra-Union","Groupe pour un numéro de TVA invalide - Intra-Union"
+"Group for Invalid VAT ID","Groupe pour un numéro de TVA invalide"
+"Validation Error Group","Groupe d'erreur de validation"
+"Validate on Each Transaction","Valider à chaque transaction"
+"Default Value for Disable Automatic Group Changes Based on VAT ID","Valeur par défaut pour la désactivation des changement de groupe automatiques basés sur le numéro de TVA"
+"Default Email Domain","Domaine de mail par défaut"
+"Default Welcome Email","Email d'accueil par défaut"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"Email Sender","Expéditeur du mail"
+"Require Emails Confirmation","Nécessite la confirmation par email"
+"Confirmation Link Email","Email de lien de confirmation"
+"Welcome Email","Email de bienvenue"
+"Generate Human-Friendly Customer ID","Générer un ID client facile à lire"
+"Password Options","Options de mot de passe"
+"Forgot Email Template","Gabarit du mail d'oubli"
+"Remind Email Template","Template d'email de rappel"
+"Recovery Link Expiration Period (days)","Durée avant expiration d'un lien de récupération (en jours)"
+"Please enter a number 1 or greater in this field.","Veuillez saisir un nombre supérieur ou égal à 1."
+"Name and Address Options","Options de nom et d'adresse"
+"Number of Lines in a Street Address","Nombre de lignes dans l'adresse de rue"
+"Leave empty for default (2). Valid range: 1-4","Laisser vide pour utiliser la valeur par défaut (2). Éventail autorisé : 1-4"
+"Show Prefix","Afficher le préfixe"
+"The title that goes before name (Mr., Mrs., etc.)","Le préfixe vient avant le nom (M., Mme, etc.)"
+"Prefix Dropdown Options","Options de la liste déroulante des préfixes"
+"Show Middle Name (initial)","Afficher les initiales"
+"Always optional.","Toujours optionnel."
+"Show Suffix","Afficher le suffixe"
+"The suffix that goes after name (Jr., Sr., etc.)","Le suffixe vient après le nom (Jr., Sr., etc.)"
+"Suffix Dropdown Options","Options de la liste déroulante des suffixes"
+"Show Date of Birth","Afficher la date de naissance"
+"Show Tax/VAT Number","Afficher le numéro de TVA intracommunautaire"
+"Show Gender","Afficher le genre"
+"Login Options","Options de connexion"
+"Redirect Customer to Account Dashboard after Logging in","Rediriger les clients vers leur tableau de bord après connexion"
+"Customer will stay on the current page if ""No"" is selected.","Le client restera sur la page en cours si ""Non"" est sélectionné."
+"Address Templates","Gabarit d'adresse"
+"Online Customers Options","Options des clients en ligne"
+"Online Minutes Interval","Intervalle en minutes"
+"Leave empty for default (15 minutes).","Laisser vide pour utiliser la valeur par défaut (15 minutes)."
+Group,Groupe
+"Add New Customer","Ajouter un nouveau client"
+"Subscribe to Newsletter","S'abonner à la newsletter"
+"Unsubscribe from Newsletter","Se désinscrire de la newsletter"
+"Assign a Customer Group","Assigner un groupe clients"
+ZIP,"Code postal"
+"Customer Since","Client depuis"
+"Last Logged In","Dernière connexion"
+"First Name",Prénom
+"Last Name",Nom
+"Last Activity","Dernière activité"
+Type,Type
+"Customer Information","Informations client"
+Addresses,Adresses
+"Account Dashboard","Tableau de bord du compte"
+"Edit Account Information","Éditer les informations du compte"
+"Password forgotten","Mot de passe oublié"
+"My Dashboard","Mon tableau de bord"

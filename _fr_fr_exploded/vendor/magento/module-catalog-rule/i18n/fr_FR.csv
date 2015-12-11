@@ -1,0 +1,47 @@
+"Catalog Price Rule","Règle de prix catalogue"
+"Add New Rule","Ajouter une nouvelle règle"
+"Apply Rules","Appliquer les règles"
+"Save and Apply","Sauvegarder et appliquer"
+"Save and Continue Edit","Sauvegarder et continuer à éditer"
+"Edit Rule '%1'","Éditer la règle '%1'"
+"New Rule","Nouvelle règle"
+"Rule Information","Informations règle"
+Actions,Actions
+Apply,Appliquer
+"Discount Amount",Remise
+No,Non
+Yes,Oui
+Conditions,Conditions
+"General Information","Informations générales"
+"Rule Name","Nom de la règle"
+Description,Description
+Status,Statut
+Active,Actif
+Inactive,Inactif
+Websites,"Sites web"
+"Customer Groups","Groupes clients"
+From,De
+To,À
+Priority,Priorité
+ID,ID
+Type,Type
+"Attribute Set","Jeu d'attributs"
+SKU,Réf.
+Product,Produit
+Promotions,Promotions
+"This rule no longer exists.","Cette règle n'existe plus."
+"Edit Rule","Éditer la règle"
+Catalog,Catalogue
+"Wrong rule specified.","Mauvaise règle spécifiée."
+Promo,Promo
+"Update the Product","Mettre à jour le produit"
+"Rule price","Règle de prix"
+"To Fixed Value","Nouveau prix"
+"To Percentage","Nouveau prix en %%"
+"By Fixed value","Remise d'une valeur fixe"
+"By Percentage","Remise en %%"
+"Update product's %1 %2: %3","Mettre à jour le %1 du produit %2 : %3"
+"Conditions Combination","Combinaison de conditions"
+"Product Attribute","Attribut du produit"
+Start,Commencer
+"Web Site","Site Web"

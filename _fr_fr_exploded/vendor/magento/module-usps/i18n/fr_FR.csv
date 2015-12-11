@@ -1,0 +1,56 @@
+"Priority Mail","Courrier prioritaire"
+"Media Mail","Courrier media"
+Letter,Lettre
+Flat,Plat
+Parcel,Colis
+Variable,Variable
+"Flat-Rate Box","Boîte taux fixe"
+"Flat-Rate Envelope","Enveloppe taux fixe"
+Rectangular,Rectangulaire
+Non-rectangular,"Non rectangulaire"
+Regular,Régulier
+Large,Grand
+Yes,Oui
+No,Non
+"Not Required","Non requis"
+Required,Obligatoire
+"For some reason we can't retrieve tracking info right now.","Pour une raison indéterminée nous n'arrivons pas à récuperer les informations de suivi actuellement."
+"Sorry, something went wrong. Please try again or contact us and we'll try to help.","Désolé, quelque chose s'est mal passé. Merci d'essayer à nouveau ou contactez-nous et nous essaierons de vous aider."
+"Empty response","Réponse vide"
+"Service type does not match","Le type de service ne correspond pas"
+Merchandise,Marchandises
+Sample,Exemple
+Gift,Cadeau
+Documents,Documents
+Return,Retour
+Other,Autre
+None,Aucun
+USPS,USPS
+"Enabled for Checkout","Activé pour commander"
+"Gateway URL","URL de passerelle"
+"Secure Gateway URL","URL sécurisée de la passerelle"
+Title,Titre
+"User ID","ID utilisateur"
+Password,"Mot de passe"
+Mode,Mode
+"Packages Request Type","Type de requête de paquets"
+Container,Container
+Size,Taille
+Width,Largeur
+Length,Longueur
+Height,Hauteur
+Girth,Circonférence
+Machinable,Machinable
+"Maximum Package Weight (Please consult your shipping carrier for maximum supported shipping weight)","Poids maxi du paquet (consultez votre transporteur)"
+"Calculate Handling Fee","Calculer les frais de dossier"
+"Handling Applied","Frais de dossier appliqués"
+"Handling Fee","Frais de traitement"
+"Allowed Methods","Modes de livraison autorisés"
+"Free Method","Mode gratuit"
+"Free Shipping Amount Threshold","Montant minimum pour la livraison gratuite"
+"Displayed Error Message","Message d'erreur affiché"
+"Ship to Applicable Countries","Livrer aux pays applicables"
+"Ship to Specific Countries","Livrer aux pays spécifiques"
+Debug,Déboguage
+"Show Method if Not Applicable","Afficher le mode s'il n'est pas applicable"
+"Sort Order","Ordre de tri"

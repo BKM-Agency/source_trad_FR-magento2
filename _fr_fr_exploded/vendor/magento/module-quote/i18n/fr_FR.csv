@@ -1,0 +1,11 @@
+"The requested Payment Method is not available.","La méthode demandée de paiement n'est pas disponible."
+"Grand Total","Montant global"
+"Shipping & Handling","Frais de port"
+Shipping,Livraison
+Subtotal,Sous-total
+"An item option with code %1 already exists.","Une option article avec le code %1 existe déjà."
+"Please specify a shipping method.","Sélectionnez un mode de livraison."
+"Please select a valid payment method.","Sélectionnez un mode de paiement valide."
+"Store Credit","Carte de crédit du magasin"
+Discount,Remise
+Tax,"TVA & autres taxes"

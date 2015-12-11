@@ -1,0 +1,141 @@
+"New Shipment for Order #%1","Nouvelle expédition pour la commande n°%1"
+"Submit Shipment","Valider l'expédition"
+"Products should be added to package(s)","Les produits devraient être ajoutés au(x) paquet(s)"
+"The value that you entered is not valid.","La valeur n'est pas valide."
+"Add Tracking Number","Ajouter un numéro de suivi"
+"Custom Value","Valeur personnalisée"
+Add,Ajouter
+"Send Tracking Information","Envoyer les informations de suivi"
+Print,Imprimer
+"the shipment email was sent","l'email d'expédition a été envoyé"
+"the shipment email is not sent","l'email d'expédition n'a pas été envoyé"
+"Shipment #%1 | %3 (%2)","Expédition n°%1 | %3 (%2)"
+"Create Shipping Label...","Créer l'étiquette de livraison..."
+"Print Shipping Label","Imprimer l'étiquette de livraison"
+"Show Packages","Afficher les paquets"
+"About Your Shipment","À propos de votre expédition"
+"Order # %1","Commande n°%1"
+"Back to My Orders","Retour à mes commandes"
+"View Another Order","Voir une autre commande"
+"Cannot add new comment.","Impossible d'ajouter un commentaire."
+Shipments,Expéditions
+"Cannot add tracking number.","Impossible d'ajouter un numéro de suivi."
+"An error occurred while creating shipping label.","Erreur lors de la création de l'étiquette de livraison."
+"Cannot send shipment information.","Impossible d'envoyer les informations d'expédition."
+"New Shipment","Nouvelle livraison"
+"The shipment has been created.","L'expédition a été créée."
+"Cannot save shipment.","Impossible de sauvegarder l'expédition."
+"The order no longer exists.","La commande n'existe plus."
+"Cannot do shipment for the order separately from invoice.","Impossible de créer une expédition pour la commande séparément de la facture."
+"Cannot do shipment for the order.","Impossible de créer une expédition pour la commande."
+"Page not found.","Page introuvable."
+"Tracking Information","Informations de suivi"
+"The shipping module is not available.","Le module de livraison n'est pas disponible."
+"No packages for request","Pas de paquet demandé"
+"All Allowed Countries","Tous les pays autorisés"
+"Specific Countries","Certains pays"
+Development,Développement
+Live,"En production"
+"Divide to equal weight (one request)","Diviser en poids égal (une requête)"
+"Use origin weight (few requests)","Utiliser le poids d'origine (peu de requêtes)"
+Packages,Packages
+Package,Interface
+Type,Type
+Length,Longueur
+"Signature Confirmation","Confirmation de signature"
+"Customs Value","Valeur personnalisée"
+Width,Largeur
+Contents,Contenu
+"Total Weight","Poids total"
+Height,Hauteur
+Size,Taille
+Girth,Circonférence
+"Items in the Package","Articles dans le paquet"
+Product,Produit
+Weight,Poids
+"Qty Ordered","Qté commandée"
+Qty,Qté
+"No detail for number ""%1""","Aucun détail pour le numéro ""%1"""
+"Per Order","Par commande"
+"Per Package","Par paquet"
+Fixed,Fixé
+Percent,Pourcent
+message,message
+"Payment Information","Informations de paiement"
+"Shipping Information","Informations de livraison"
+"Total Shipping Charges","Montant total de la livraison"
+"Incl. Tax",TTC
+"Items to Ship","Articles à expédier"
+"Qty to Ship","Qté à expédier"
+Ship,Expédier
+"Shipment Comments","Commentaires de livraison"
+"Comment Text","Texte du commentaire"
+"Create Shipping Label","Créer l'étiquette de livraison"
+"Append Comments","Ajouter les commentaires"
+"Email Copy of Shipment","Envoyer une copie de la livraison par mail"
+"Select All","Sélectionner tout"
+"Product Name","Nom du produit"
+Delete,Supprimer
+"Create Packages","Créer les paquets"
+Cancel,Annuler
+Save,Sauvegarder
+"Add Package","Ajouter un package"
+"Add Selected Product(s) to Package","Ajouter les produits sélectionnés au paquet"
+in,in
+cm,cm
+lb,lb
+kg,kg
+"Delete Package","Effacer le paquet"
+Explanation,Explication
+Carrier,Transporteur
+Title,Titre
+Number,Numéro
+Action,Action
+"Are you sure?","Êtes-vous sûr(e) ?"
+"Shipping &amp; Handling Information","Informations de livraison"
+"Track Order","Suivre la commande"
+"No shipping information available","Aucune information de livraison disponible"
+"Shipping and Tracking Information","Informations de livraison et de suivi"
+"Track this shipment","Suivre cette livraison"
+"Items Shipped","Articles expédiés"
+"Order Total","Total de la commande"
+"Shipment History","Historique de livraison"
+"Qty Shipped","Qté livrée"
+"Print All Shipments","Imprimer toutes les livraisons"
+"Shipment #","Expédition n°"
+"Print Shipment","Imprimer la livraison"
+"Tracking Number(s):","Numéro(s) de suivi :"
+SKU,Réf.
+"Tracking Number:","Numéro de suivi :"
+Carrier:,"Transporteur :"
+Error:,"Erreur :"
+"Tracking information is currently not available. Please ","Les informations de suivi ne sont pas disponibles pour le moment. Vous pouvez  "
+"contact us",contactez-nous
+" for more information or "," pour plus d'information ou "
+"email us at ","nous envoyer un email à  "
+Info:,"Info :"
+Track:,"Suivre :"
+Status:,"Statut :"
+"Delivered on:","Livré le :"
+"Signed by:","Signé par :"
+"Delivered to:","Livré à :"
+"Shipped or billed on:","Livré ou facturé le :"
+"Service Type:","Type de service :"
+Weight:,"Poids :"
+N/A,N/A
+Location,Lieu
+Date,Date
+"Local Time","Heure locale"
+Description,Description
+"There is no tracking available for this shipment.","Aucun suivi disponible pour la livraison."
+"There is no tracking available.","Aucun suivi disponible."
+"Close Window","Fermer la fenêtre"
+"Shipping Settings","Paramètres de livraison"
+Origin,Origine
+Country,Pays
+Region/State,Région/État
+"ZIP/Postal Code","Code postal"
+City,Ville
+"Street Address",Adresse
+"Street Address Line 2","Adresse - ligne 2"
+"Shipping Methods","Modes de livraison"

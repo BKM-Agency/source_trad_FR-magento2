@@ -1,0 +1,76 @@
+"Shopping Cart",Panier
+"Invalid method: %1","Méthode invalide : %1"
+City,Ville
+Country,Pays
+State/Province,État/Région
+"Zip/Postal Code","Code postal"
+"My Cart (%1 items)","Mon panier (%1 articles)"
+"My Cart","Mon panier"
+"Minimum order amount is %1","Le montant minimal de commande est %1"
+"We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier."
+"Out of stock",Épuisé
+"%1 was updated in your shopping cart.","%1 a été mis à jour dans votre panier."
+Checkout,Commander
+"Page not found.","Page introuvable."
+"Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande."
+"We can't find the product.","Impossible de trouver le produit."
+"The product does not exist.","Le produit n'existe pas."
+"Quantity was recalculated from %1 to %2","La quantité a été recalculée de %1 à %2"
+"Display number of items in cart","Afficher le nombre de produits différents dans le panier"
+"Display item quantities","Afficher la quantité totale d'articles dans le panier"
+"Load customer quote error","Erreur lors du chargement du panier client"
+Message,Message
+"Cancel Coupon","Annuler le bon de réduction"
+Item,Article
+Price,Prix
+Qty,Qté
+Subtotal,Sous-total
+"Continue Shopping","Continuer vos achats"
+"Clear Shopping Cart","Vider le panier"
+"Update Shopping Cart","Mettre à jour le panier"
+"Update Cart","Mettre à jour le panier"
+"See price before order confirmation.","Voir le prix avant la confirmation de la commande."
+"What's this?","Qu'est-ce que c'est ?"
+"Edit item parameters","Éditer les paramètres de l'article"
+Edit,Éditer
+"Remove item","Supprimer l'article"
+"You have no items in your shopping cart.","Votre panier est vide."
+"Click <a href=""%1"">here</a> to continue shopping.","Cliquez <a href=""%1"">ici</a> pour continuer vos achats."
+"Estimate Shipping and Tax","Estimer la livraison et la TVA"
+"Excl. Tax",HT
+Loading...,"En cours de chargement..."
+"Order #","Commande n°"
+"Proceed to Checkout",Commander
+"Product Name","Nom du produit"
+"Incl. Tax",TTC
+Items,Articles
+"Billing Address:","Adresse de facturation :"
+"Shipping Address:","Adresse de livraison :"
+"Shipping Method:","Mode de livraison :"
+"Payment Method:","Mode de paiement :"
+"Checkout Options","Options de règlement"
+"Enable Onepage Checkout","Activer le passage de commande en une seule page"
+"Allow Guest Checkout","Autoriser le passage de commande en tant qu'invité"
+"Require Customer To Be Logged In To Checkout","Imposer au client d'être connecté pour passer une commande"
+"Quote Lifetime (days)","Durée de vie du panier (en jours)"
+"After Adding a Product Redirect to Shopping Cart","Rediriger vers le panier après l'ajout d'un produit"
+"My Cart Link","Lien vers mon panier"
+"Display Cart Summary","Afficher le résumé du panier"
+"Shopping Cart Sidebar","Barre latérale du panier"
+"Display Shopping Cart Sidebar","Afficher la barre latérale du panier"
+"Maximum Display Recently Added Item(s)","Nombre maxi d'articles récemment ajoutés à afficher"
+"Payment Failed Emails","Emails d'erreur de paiement"
+"Payment Failed Email Sender","Expéditeur du mail d'erreur de paiement"
+"Payment Failed Template","Gabarit d'erreur de paiement"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"Send Payment Failed Email Copy To","Envoyer une copie du mail d'erreur de paiement à"
+"Separate by "","".","Séparé par des virgules."
+"Send Payment Failed Email Copy Method","Envoyer une copie du mail d'erreur de paiement en utilisant la méthode"
+Shipping,Livraison
+"Order Total","Total de la commande"
+"Shipping Address","Adresse de livraison"
+"Save Address","Sauvegarder l'adresse"
+Cancel,Annuler
+Payment,PAIEMENT
+"We received your order!","Nous avons pris en compte votre commande !"
+"Thank you for your purchase!","Merci de votre achat !"

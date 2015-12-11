@@ -1,0 +1,18 @@
+"We can't save the cron expression.","Impossible de sauvegarder l'expression de la tâche programmée."
+Daily,Quotidien
+Weekly,Hebdomadaire
+Monthly,Mensuel
+"Invalid cron expression: %1","Expression de la tâche programmée invalide : %1"
+"Invalid cron expression, expecting 'match/modulus': %1","Expression de la tâche programmée invalide, ""valeur/modulo"" attendu : %1"
+"Invalid cron expression, expecting numeric modulus: %1","Expression de la tâche programmée invalide, modulo numérique attendu : %1"
+"Invalid cron expression, expecting 'from-to' structure: %1","Expression de la tâche programmée invalide : structure ""de-à"" attendu : %1"
+"Cron (Scheduled Tasks) - all the times are in minutes","Cron (Tâches programmées) - tous les temps sont en minutes"
+"For correct URLs generated during cron runs please make sure that Web > Secure and Unsecure Base URLs are explicitly set.","Afin que les URLs soient générées correctement lors de l'exécution de cron, assurez-vous que les URL non sécurisée et sécurisée sont correctement renseignées."
+"Cron configuration options for group: ","Options de configuration pour les tâches programmées groupées : "
+"Generate Schedules Every","Générer les tâches programmées toutes les"
+"Schedule Ahead for","Programmer en avance de"
+"Missed if Not Run Within","Manqué si non exécuté dans les"
+"History Cleanup Every","Nettoyer l'historique toutes les"
+"Success History Lifetime","Durée de vie de l'historique des succès"
+"Failure History Lifetime","Durée de vie de l'historique des échecs"
+"Use Separate Process","Utiliser des processus séparés"

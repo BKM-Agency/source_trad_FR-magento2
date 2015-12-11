@@ -1,0 +1,62 @@
+"Add New Template","Ajouter un nouveau gabarit"
+"Transactional Emails","Emails transactionnels"
+Back,Retour
+Reset,Réinitialiser
+"Delete Template","Supprimer le gabarit"
+"Convert to Plain Text","Convertir en texte simple"
+"Return Html Version","Revenir à la version HTML"
+"Preview Template","Prévisualiser le gabarit"
+"Save Template","Sauvegarder le gabarit"
+"Load Template","Charger le gabarit"
+"Edit Email Template","Éditer le gabarit de l'email"
+"New Email Template","Nouveau gabarit de mail"
+"Default Config","Configuration par défaut"
+"Template Information","Informations gabarit"
+"Template Name","Nom du gabarit"
+"Template Subject","Sujet du gabarit"
+"Insert Variable...","Insérer une variable..."
+"Template Content","Contenu du gabarit"
+"Template Styles","Styles de gabarit"
+Preview,Prévisualiser
+Unknown,Inconnu
+"Edit Template","Éditer le gabarit"
+"Edit System Template","Éditer le gabarit système"
+"New Template","Nouveau gabarit"
+"New System Template","Nouveau gabarit système"
+"Email Templates","Gabarits d'email"
+"Email Preview","Prévisualisation de l'email"
+"This email template no longer exists.","Ce gabarit d'email n'existe plus."
+"Base Unsecure URL","URL de base non sécurisée"
+"Base Secure URL","URL de base sécurisée"
+"General Contact Name","Nom du contact général"
+"General Contact Email","Email du contact général"
+"Sales Representative Contact Name","Nom du contact représentant des ventes"
+"Sales Representative Contact Email","Email du contact représentant des ventes"
+"Custom1 Contact Name","Nom du contact personnalisé 1"
+"Custom1 Contact Email","Email du contact personnalisé 1"
+"Custom2 Contact Name","Nom du contact personnalisé 2"
+"Custom2 Contact Email","Email du contact personnalisé 2"
+"Store Name","Nom du magasin"
+"Store Phone Number","N° de téléphone du magasin"
+Country,Pays
+Region/State,Région/État
+"Zip/Postal Code","Code postal"
+City,Ville
+"Street Address 2","Complément d'adresse"
+"Store Contact Information","Informations de contact du magasin"
+%1,%1
+"Template Variables","Variables de gabarit"
+"Duplicate Of Template Name","Duplication du nom de gabarit"
+"Requested invalid store ""%1""","Le magasin demandé ""%1"" n'est pas valide"
+Title,Titre
+"Load default template","Charger le gabarit par défaut"
+Template,Gabarit
+"Logo Image","Image du logo"
+"Logo Image Alt","Texte alternatif du logo"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"No Templates Found","Aucun gabarit trouvé"
+ID,ID
+Updated,"Mis à jour"
+Subject,Sujet
+"Template Type","Type de gabarit"
+Action,Action

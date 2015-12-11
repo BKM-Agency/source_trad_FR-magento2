@@ -1,0 +1,538 @@
+"Credit Memos",Avoirs
+Orders,Commandes
+Invoices,Factures
+"Create New Order","Créer une nouvelle commande"
+"Save Order Address","Enregistrer l'adresse de la commande"
+Shipping,Livraison
+Billing,Facturation
+"Edit Order %1 %2 Address","Éditer pour la commande n°%1 l'adresse de %2"
+"Order Address Information","Informations d'adresse de commande"
+"Submit Comment","Envoyer un commentaire"
+"Submit Order","Envoyer la commande"
+"Are you sure you want to cancel this order?","Êtes-vous sûr(e) de vouloir annuler cet commande ?"
+Cancel,Annuler
+"Billing Address","Adresse de facturation"
+"Payment Method","Mode de paiement"
+"Order Comment","Commentaire de la commande"
+Coupons,"Bons de réduction"
+"Please select a customer","Sélectionnez un client"
+"Create New Customer","Créer un nouveau client"
+"Account Information","Informations du compte"
+From,De
+To,À
+Message,Message
+"Edit Order #%1","Modifier la commande n°%1"
+"Create New Order for %1 in %2","Créer une nouvelle commande pour %1 dans %2"
+"Create New Order for New Customer in %1","Créer une nouvelle commande pour un nouveau client dans %1"
+"Create New Order for %1","Créer une nouvelle commande pour %1"
+"Create New Order for New Customer","Créer une nouvelle commande pour un nouveau client"
+"Items Ordered","Articles commandés"
+"Buy %1 for price %2","Achetez-en %1 pour le prix de %2"
+"Item ordered qty","Qté commandée"
+"%1 for %2","%1 pour %2"
+"* - Enter custom price including tax","* - Saisissez le prix toutes taxes comprises"
+"* - Enter custom price excluding tax","* - Saisissez le prix hors taxe"
+Configure,Configurer
+"This product does not have any configurable options","Ce produit n'a aucune option configurable."
+"Newsletter Subscription","Abonnement à la newsletter"
+"Add Selected Product(s) to Order","Ajouter les produits sélectionnés à la commande"
+ID,ID
+Product,Produit
+SKU,Réf.
+Price,Prix
+Select,Sélectionnez
+Quantity,Quantité
+"Shipping Address","Adresse de livraison"
+"Shipping Method","Mode de livraison"
+"Update Changes","Mettre à jour les modifications"
+"Shopping Cart",Panier
+"Are you sure you want to delete all items from shopping cart?","Êtes-vous sûr(e) de vouloir enlever tous les articles du panier ?"
+"Clear Shopping Cart","Vider le panier"
+"Products in Comparison List","Produits dans la liste de comparaison"
+"Recently Compared Products","Derniers produits comparés"
+"Recently Viewed Products","Derniers produits consultés"
+"Last Ordered Items","Derniers articles commandés"
+"Recently Viewed","Vu récemment"
+"Please select a store","Sélectionnez un magasin"
+"Order Totals","Totaux commande"
+"Shipping Incl. Tax (%1)","Livraison TTC (%1)"
+"Shipping Excl. Tax (%1)","Livraison HT (%1)"
+"New Credit Memo for Invoice #%1","Nouvel avoir pour la facture n°%1"
+"New Credit Memo for Order #%1","Nouvel avoir pour la facture n°%1"
+"Refund Shipping (Incl. Tax)","Remboursement livraison (TTC)"
+"Refund Shipping (Excl. Tax)","Remboursement livraison (HT)"
+"Refund Shipping","Remboursement de livraison"
+"Update Qty's","Mettre à jour les qtés"
+Refund,Rembourser
+"Refund Offline","Remboursement hors ligne"
+"Paid Amount","Montant réglé"
+"Refund Amount","Montant du remboursement"
+"Shipping Amount","Montant de la livraison"
+"Shipping Refund","Remboursement de la livraison"
+"Order Grand Total","Montant global"
+"Adjustment Refund","Remboursement des frais de dossier"
+"Adjustment Fee","Frais de dossier"
+"Send Email","Envoyer un email"
+Void,Invalider
+Print,Imprimer
+"Credit Memo #%1 | %3 | %2 (%4)","Avoir n° %1 | %3 | %2 (%4)"
+"Total Refund","Remboursement total"
+"New Invoice and Shipment for Order #%1","Nouvelles facture et expédition pour la commande n°%1"
+"New Invoice for Order #%1","Nouvelle facture pour la commande n°%1"
+"Submit Invoice and Shipment","Soumettre la facture et l'expédition"
+"Submit Invoice","Soumettre la facture"
+"Credit Memo",Avoir
+Capture,Capturer
+"Invoice #%1 | %2 | %4 (%3)","Facture n°%1 | %2 | %4 (%3)"
+"Invalid parent block for this block","Block parent invalide pour ce block"
+"Order Statuses","Statuts de commande"
+"Create New Status","Créer un statut"
+"Assign Status to State","Assigner un statut à un état"
+"Save Status Assignment","Enregistrer l'assignation du statut"
+"Assign Order Status to State","Assigner un statut de commande à un état"
+"Assignment Information","Information d'affectation"
+"Order Status",Statut
+"Order State","État de commande"
+"Use Order Status As Default","Utiliser ce statut comme valeur par défaut"
+"Edit Order Status","Éditer le statut de commande"
+"Save Status","Enregistrer le statut"
+"New Order Status","Statut d'une nouvelle commande"
+"Order Status Information","Informations du statut de commande"
+"Status Code","Code du statut"
+"Status Label","Libellé du statut"
+"Store View Specific Labels","Libellés spécifiques par vue magasin"
+"Total Paid","Total payé"
+"Total Refunded","Total remboursé"
+"Total Due","Total dû"
+Edit,Éditer
+"Are you sure you want to void the payment?","Êtes-vous sûr(e) de vouloir envoyer le rejet de paiement par email au client ?"
+Hold,Bloquer
+hold,bloquer
+Unhold,Débloquer
+unhold,débloquer
+"Are you sure you want to accept this payment?","Êtes-vous sûr(e) de vouloir accepter ce paiement ?"
+"Accept Payment","Acceptez le paiement"
+"Are you sure you want to deny this payment?","Êtes-vous sûr(e) de vouloir refuser ce paiement ?"
+"Deny Payment","Refuser de paiement"
+"Get Payment Update","Obtenir la mise à jour de paiement"
+"Invoice and Ship","Facturer et expédier"
+Invoice,Facturer
+Ship,Expédier
+Reorder,Renouveler
+"Order # %1 %2 | %3","Commande n°%1 %2 | %3"
+"Save Gift Message","Sauvegarder le message cadeau"
+" [deleted]"," [effacé]"
+"Order Credit Memos","Avoirs de la commande"
+"Credit memo #%1 created","Avoir n°%1 créé"
+"Credit memo #%1 comment added","Commentaire ajouté pour l'avoir n°%1"
+"Shipment #%1 created","Livraison n°%1 créée"
+"Shipment #%1 comment added","Commentaire ajouté pour l'expédition n°%1"
+"Invoice #%1 created","Facture n°%1 créée"
+"Invoice #%1 comment added","Commentaire ajouté à la facture n°%1"
+"Tracking number %1 for %2 assigned","Numéro de suivi %1 assigné à %2"
+"Comments History","Historique de commentaires"
+"Order History",Historique
+Information,Informations
+"Order Information","Informations commande"
+"Order Invoices","Factures de la commande"
+Shipments,Expéditions
+"Order Shipments","Livraisons de la commande"
+Transactions,Transactions
+"Order View","Vue de commande"
+Any,Tous
+Specified,Spécifié
+Yes,Oui
+No,Non
+"Show Actual Values","Montrer les valeurs actuelles"
+"New Order RSS","Flux RSS des nouvelles commandes"
+Subtotal,Sous-total
+"Shipping & Handling","Frais de port"
+"Discount (%1)","Remise (%1)"
+Discount,Remise
+"Grand Total","Montant global"
+Back,Retour
+Fetch,Rapporter
+"Transaction # %1 | %2","Transaction n°%1 | %2"
+N/A,N/A
+Key,Clé
+Value,Valeur
+"Order # %1","Commande n°%1"
+"Back to My Orders","Retour à mes commandes"
+"View Another Order","Voir une autre commande"
+"About Your Refund","À propos de votre remboursement"
+"My Orders","Mes commandes"
+"Subscribe to Order Status","S'abonner au statut de commande"
+"About Your Invoice","À propos de votre facture"
+"Print Order # %1","Imprimer la commande n°%1"
+"Grand Total to be Charged","Total à facturer"
+Unassign,"Annuler l'assignation"
+"We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier."
+Sales,Ventes
+"This order no longer exists.","Cette commande n'existe plus."
+"""%1"" coupon code is not valid.","Le bon de réduction ""%1"" n'est pas valide."
+"The coupon code has been accepted.","Le code promo a été accepté."
+"Quote item id is not received.","L'identifiant de l'article de la commande n'a pas été reçu."
+"Quote item is not loaded.","L'article n'est pas chargé."
+"New Order","Nouvelle commande"
+"You created the order.","La commande a été créée."
+"Order saving error: %1","Erreur lors de la sauvegarde de la commande : %1"
+"Cannot add new comment.","Impossible d'ajouter un commentaire."
+"The credit memo has been canceled.","L'avoir a été annulé."
+"New Memo for #%1","Nouvel avoir pour n°%1"
+"New Memo","Nouvel avoir"
+"View Memo for #%1","Voir l'avoir pour n°%1"
+"View Memo","Voir l'avoir"
+"The order no longer exists.","La commande n'existe plus."
+"Edit Order","Éditer la commande"
+"The invoice has been captured.","La facture a été capturée."
+"New Invoice","Nouvelle facture"
+"The invoice has been created.","La facture a été créée."
+"Cannot update item quantity.","Impossible de mettre à jour la quantité de l'article."
+"The invoice has been voided.","La facture a été invalidée."
+"%1 order(s) were not put on hold.","%1 commandes n'ont pas été bloquées."
+"No order(s) were put on hold.","Aucune commande n'a été bloquée."
+"There are no printable documents related to selected orders.","Il n'y a pas de documents imprimables en relation avec les commandes sélectionnées."
+"The payment has been accepted.","Le paiement a été accepté."
+"The payment has been denied.","Le paiement a été refusé."
+"Create New Order Status","Créer un nouveau statut de commande"
+"The payment has been voided.","Le paiement a été annulé."
+"The transaction details have been updated.","Les détails de la transaction ont été mis à jour."
+"Orders and Returns","Commandes et retours"
+Home,Accueil
+"Go to Home Page","Aller à la page d'accueil"
+"There is an error in one of the option rows.","Erreur dans une des lignes d'option."
+"Shipping Address: ","Adresse de livraison : "
+"Billing Address: ","Adresse de facturation : "
+"Please specify a shipping method.","Sélectionnez un mode de livraison."
+"Please specify a payment method.","Merci de sélectionner une méthode de paiement."
+Guest,Invité
+"Please enter the first name.","Veuillez renseigner le prénom."
+"Please enter the last name.","Veuillez renseigner le nom de famille."
+"Please enter the street.","Veuillez renseigner la rue."
+"Please enter the city.","Veuillez renseigner la ville."
+"Please enter the zip/postal code.","Veuillez renseigner le code postal."
+"Please enter the country.","Veuillez renseigner le pays."
+"Please enter the state/province.","Veuillez renseigner le département."
+Pending,"En attente"
+Refunded,Remboursé
+Canceled,Annulée
+"Unknown State","État inconnu"
+"Maximum shipping amount allowed to refund is: %1","Montant maximum des expéditions permettant le remboursement : %1"
+Paid,Payée
+"Unknown Status","Statut inconnu"
+Ordered,Commandé
+Shipped,Livré
+Invoiced,Facturé
+Backordered,"En attente de stock"
+Returned,Retourné
+Partial,Partiel
+Mixed,Mixte
+"Registered a Void notification.","Notifier une annulation."
+"Registered notification about refunded amount of %1.","Notifier lors d'un remboursement d'un montant de %1."
+"Approved the payment online.","Approuvé le paiement en ligne."
+"There is no need to approve this payment.","Il n'est pas nécessaire d'approuver ce paiement."
+"Registered update about approved payment.","Mise à jour enregistrée au sujet de paiement approuvé."
+"Registered update about denied payment.","Mise à jour enregistrée au sujet de paiement refusé."
+"There is no update for the payment.","Il n'ya pas de mise à jour pour le paiement."
+"Voided authorization.","Autorisation refusée."
+"Amount: %1.","Montant : %1."
+"The payment method you requested is not available.","La méthode de paiement demandée n'est pas disponible."
+"The payment disallows storing objects.","Cette méthode de paiement interdit le stockage d'objets."
+"The transaction ""%1"" cannot be captured yet.","La transaction ""%1"" ne peuvent être capturés pour le moment."
+"Registered notification about captured amount of %1.","Notifier lors d'un encaissement d'un montant de %1."
+"Order is suspended as its capture amount %1 is suspected to be fraudulent.","La commande est suspendue car le montant de capture %1 pourrait être frauduleux."
+"Payment transactions disallow storing objects.","Les transactions de paiement rejettent de stocker des objets."
+"The transaction ""%1"" (%2) is already closed.","La transaction ""%1"" (%2) est déjà close."
+"Set order for existing transactions not allowed","Placez la commande pour des transactions existantes non permise"
+Order,Commande
+Authorization,Autorisation
+"Order # ","Commande n° "
+"Order Date: ","Date de commande : "
+"Sold to:","VENDU À :"
+"Ship to:","LIVRÉ À :"
+"Payment Method:","Mode de paiement :"
+"Shipping Method:","Mode de livraison :"
+"Total Shipping Charges","Montant total de la livraison"
+Title,Titre
+Number,Numéro
+Products,Produits
+"Total (ex)","Total (HT)"
+Qty,Qté
+Tax,"TVA & autres taxes"
+"Total (inc)","Total (TTC)"
+"Invoice # ","Facture n° "
+"Excl. Tax",HT
+"Incl. Tax",TTC
+title,titre
+City,Ville
+Company,Société
+Country,Pays
+Email,Email
+"First Name",Prénom
+"Last Name",Nom
+State/Province,État/Région
+"Street Address",Adresse
+"Phone Number","Numéro de téléphone"
+"Zip/Postal Code","Code postal"
+"New Orders","Nouvelles commandes"
+"Order #%1 created at %2","Commande n°%1 créée le %2"
+"Details for %1 #%2","Détails pour %1 n°%2"
+"Comment: %1<br/>","Commentaire : %1<br/>"
+"Current Status: %1<br/>","Statut actuel : %1<br/>"
+"Total: %1<br/>","Total : %1<br/>"
+"Order # %1 Notification(s)","Notification(s) de la commande n°%1"
+"The Order State ""%1"" must not be set manually.","L'état de la commande ""%1"" ne peut être modifié manuellement."
+"VAT Request Identifier","Identifiant de demande de TVA"
+"VAT Request Date","Date de demande de TVA"
+"Pending Payment","En attente de paiement"
+Processing,"En cours de traitement"
+"On Hold",Bloquée
+Complete,Terminée
+Closed,Fermée
+"Suspected Fraud","Fraude suspectée"
+"Payment Review","Vérification du paiement"
+New,Nouveau
+View,Voir
+"Changing address information will not recalculate shipping, tax or other order amount.","Changer les informations de l'adresse ne recalculera pas les frais de port, les taxes ou les autres montants de la commande."
+"Comment Text","Texte du commentaire"
+"Notify Customer by Email","Avertir le client par email"
+Customer,Client
+Notified,Notifié
+"Not Notified","Non notifié"
+"No Payment Methods","Aucun mode de paiement"
+"Order Comments","Commentaires de commande"
+"Apply Coupon Code","Appliquer un bon de réduction"
+Apply,Appliquer
+"Remove Coupon Code","Supprimer le code de bon de réduction"
+Remove,Supprimer
+"Address Information","Informations d'adresse"
+"Order Total","Total de la commande"
+"Order Currency:","Devise de la commande :"
+"Same As Billing Address","Identique à l'adresse de facturation"
+"Select from existing customer addresses:","Sélectionner d'une adresse client existante :"
+"Add New Address","Ajouter une nouvelle adresse"
+"Save in address book","Enregistrer dans le carnet d'adresses"
+"Gift Message for the Entire Order","Message cadeau pour toute la commande"
+"Leave this box blank if you don't want to leave a gift message for the entire order.","Laisser ce champ vide si vous ne voulez pas laisser un message cadeau pour toute la commande."
+"Row Subtotal","Sous-total de la ligne"
+Action,Action
+"No ordered items","Aucun article commandé"
+"Total %1 product(s)","%1 produit(s) au total"
+Subtotal:,"Sous-total :"
+"Tier Pricing","Tarification par palier"
+"Custom Price","Prix personnalisé"
+"Please select","Veuillez sélectionner"
+"Move to Shopping Cart","Placer dans le panier"
+"Subscribe to Newsletter","S'abonner à la newsletter"
+"Click to change shipping method","Cliquer pour changer le mode de livraison"
+"Get shipping methods and rates","Récupérer les modes de livraison et les taux"
+Refresh,Rafraîchir
+Item,Article
+"Add To Order","Ajouter à la commande"
+"Configure and Add to Order","Configurer et ajouter à la commande"
+"No items","Aucun article"
+"Append Comments","Ajouter les commentaires"
+"Email Order Confirmation","Envoyer la confirmation de commande par mail"
+"Grand Total Excl. Tax","Total HT"
+"Grand Total Incl. Tax","Total TTC"
+"Subtotal (Excl. Tax)","Sous-total HT"
+"Subtotal (Incl. Tax)","Sous-total TTC"
+"Payment Information","Informations de paiement"
+"Shipping Information","Informations de livraison"
+"Items to Refund","Articles à rembourser"
+"Return to Stock","Remettre en stock"
+"Qty to Refund","Qté à rembourser"
+"Tax Amount","Montant TVA"
+"Discount Amount",Remise
+"Row Total","Total ligne"
+"No Items To Refund","Aucun article à rembourser"
+"Credit Memo Comments","Commentaires d'avoir"
+"Refund Totals","Total remboursé"
+"Email Copy of Credit Memo","Envoyer une copie de l'avoir par mail"
+"Items Refunded","Articles remboursés"
+"No Items","Aucun article"
+"Credit Memo History","Historique de l'avoir"
+"Credit Memo Totals","Totaux de l'avoir"
+"Customer Name: %1","Nom du client : %1"
+"Purchased From: %1","Commandé sur : %1"
+"Gift Message","Message du cadeau"
+From:,"De :"
+To:,"À :"
+Message:,"Message :"
+"Shipping &amp; Handling","Frais de port"
+"Gift Options","Options cadeau"
+"Create Shipment","Créer la livraison"
+%1,%1
+"Qty to Invoice","Qté à facturer"
+"Invoice History","Historique de la facture"
+"Invoice Comments","Commentaires de facture"
+"Invoice Totals","Totaux de la facture"
+Amount,Montant
+"Capture Online","Capturer en ligne"
+"Capture Offline","Capturer hors ligne"
+"Not Capture","Pas de capture"
+"Email Copy of Invoice","Envoyer une copie de la facture par mail"
+"Items Invoiced","Articles facturés"
+"Total Tax",TVA
+"From Name","De la part de"
+"To Name","Pour (nom)"
+Status,Statut
+Comment,Commentaire
+"Notification Not Applicable","Notification non-applicable"
+"The order confirmation email was sent","L'email de confirmation a été envoyé"
+"The order confirmation email is not sent","L'email de confirmation n'a pas été envoyé"
+"Order Date","Date de commande"
+"Order Date (%1)","Date de commande (%1)"
+"Purchased From","Acheté sur"
+"Link to the New Order","Lien vers la nouvelle commande"
+"Link to the Previous Order","Lien vers la commande précédente"
+"Placed from IP","Adresse IP"
+"%1 / %2 rate:","Taux %1 / %2 :"
+"Customer Name","Nom du client"
+"Customer Group","Groupe de clients"
+"Item Status",Statut
+"Original Price","Prix d'origine"
+"Tax Percent","Taux de TVA"
+"Transaction Data","Données de transaction"
+"Transaction ID","ID Transaction"
+"Parent Transaction ID","ID de transaction principale"
+"Order ID","ID Commande"
+"Transaction Type","Type de transaction"
+"Is Closed","Est fermé"
+"Created At","Créé le"
+"Child Transactions","Transactions filles"
+"Transaction Details","Détail de la transaction"
+Items,Articles
+"Gift Message for this Order","Message cadeau pour cette commande"
+"Shipped By","Livré par"
+"Tracking Number","Numéro de suivi"
+"Billing Last Name","Nom (fact.)"
+"Billing ZIP Code","Code postal (fact.)"
+Continue,Continuer
+"Print All Refunds","Imprimer tous les avoirs"
+"Refund #","Remboursement n°"
+"Print Refund","Imprimer l'avoir"
+"Product Name","Nom du produit"
+"Order #","Commande n°"
+Date,Date
+"Ship To","Livré à"
+Actions,Actions
+"View Order",Visualiser
+"You have placed no orders.","Vous n'avez jamais commandé."
+"No shipping information available","Aucune information de livraison disponible"
+"Print Order","Imprimer la commande"
+"Print All Invoices","Imprimer toutes les factures"
+"Invoice #","Facture n°"
+"Print Invoice","Imprimer la facture"
+"Qty Invoiced","Qté facturée"
+Close,Fermer
+"About Your Order","À propos de votre commande"
+"Refund #%1","Remboursement n°%1"
+"Shipment #%1","Livraison n°%1"
+"Qty Shipped","Qté livrée"
+"Recent Orders","Commandes récentes"
+"View All","Tout voir"
+"Gift Message for This Order","Message cadeau pour cette commande"
+"Add to Cart","Ajouter au panier"
+Search,Chercher
+"%name,","%name,"
+"Thank you for your order from %store_name.","Merci de votre commande sur %store_name."
+"You can check the status of your order by <a href=""%account_url"">logging into your account</a>.","Vous pouvez suivre le statut de votre commande en <a href=""%account_url"">vous connectant à votre compte</a>."
+"Your Credit Memo #%creditmemo_id for Order #%order_id","Votre avoir #%creditmemo_id pour la commande #%order_id"
+"Billing Info","Informations de facturation"
+"Shipping Info","Informations de livraison"
+"Your order #%increment_id has been updated with a status of <strong>%order_status</strong>.","Votre commande #%increment_id a été mise à jour. Son nouveau statut est maintenant <strong>%order_status</strong>."
+"Your Invoice #%invoice_id for Order #%order_id","Votre facture #%invoice_id pour la commande #%order_id"
+"%customer_name,","%customer_name,"
+"Once your package ships we will send you a tracking number.","Lorsque votre commande sera prête nous vous enverrons les numéros de suivi de livraison."
+"Your Order <span class=""no-link"">#%increment_id</span>","Votre commande <span class=""no-link"">#%increment_id</span>"
+"Placed on <span class=""no-link"">%created_at</span>","Passée le <span class=""no-link"">%created_at</span>"
+"Your shipping confirmation is below. Thank you again for your business.","Ci-dessous votre confirmation de l'expédition. Encore merci de votre achat."
+"Your Shipment #%shipment_id for Order #%order_id","Livraison #%shipment_id pour la commande #%order_id"
+"Add Products","Ajouter des produits"
+Ok,OK
+General,Général
+"Hide Customer IP","Masquer l'adresse IP du client"
+"Checkout Totals Sort Order","Ordre de tri des totaux de commande"
+"Allow Reorder","Autoriser le renouvellement de commande"
+"Invoice and Packing Slip Design","Design de facture et de bordereau de livraison"
+"Logo for PDF Print-outs (200x50)","Logo pour les impressions PDF (200x50)"
+"Logo for HTML Print View","Logo pour l'aperçu avant impression HTML"
+Address,Adresse
+"Minimum Order Amount","Montant de commande minimum"
+Enable,Activer
+"Minimum Amount","Montant minimum"
+"Description Message","Message de description"
+"Error to Show in Shopping Cart","Erreur lors de l'affichage dans le panier"
+"Validate Each Address Separately in Multi-address Checkout","Valider séparément les adresses lors de commandes multi-adresses"
+"Multi-address Description Message","Message de description multi-adresse"
+"Multi-address Error to Show in Shopping Cart","Erreur multi-adresse à afficher dans le panier"
+Dashboard,"Tableau de bord"
+"Use Aggregated Data (beta)","Utiliser les données cumulatives (beta)"
+"Sales Emails","Mails des ventes"
+Enabled,Activé
+"New Order Confirmation Email Sender","Expéditeur du mail de confirmation de commande"
+"New Order Confirmation Template","Gabarit de confirmation de nouvelle commande"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"New Order Confirmation Template for Guest","Gabarit de confirmation de nouvelle commande pour un invité"
+"Send Order Email Copy To","Envoyer une copie du mail de commande à"
+"Send Order Email Copy Method","Envoyer une copie du mail de commande en utilisant la méthode"
+"Order Comment Email Sender","Expéditeur du mail de commentaire de commande"
+"Order Comment Email Template","Gabarit de mail de commentaire de commande"
+"Order Comment Email Template for Guest","Gabarit de mail de commentaire de commande pour un invité"
+"Send Order Comment Email Copy To","Envoyer une copie du mail de commentaire de commande à"
+"Send Order Comments Email Copy Method","Mode de copie d'email pour les commentaires de commande"
+"Invoice Email Sender","Expéditeur du mail de facture"
+"Invoice Email Template","Gabarit mail de facture"
+"Invoice Email Template for Guest","Gabarit de mail de facture pour un invité"
+"Send Invoice Email Copy To","Envoyer une copie du mail de facture à"
+"Send Invoice Email Copy Method","Mode de copie d'email pour les factures"
+"Invoice Comment Email Sender","Expéditeur du mail de commentaire de facture"
+"Invoice Comment Email Template","Gabarit de mail commentaire de facture"
+"Invoice Comment Email Template for Guest","Gabarit de mail de commentaire de facture pour un invité"
+"Send Invoice Comment Email Copy To","Envoyer une copie du mail de commentaire de facture à"
+"Send Invoice Comments Email Copy Method","Mode de copie d'email pour les commentaires de facture"
+Shipment,Expédition
+"Shipment Email Sender","Expéditeur du mail d'expédition"
+"Shipment Email Template","Gabarit de mail de livraison"
+"Shipment Email Template for Guest","Gabarit de mail d'expédition pour un invité"
+"Send Shipment Email Copy To","Envoyer une copie du mail de livraison à"
+"Send Shipment Email Copy Method","Mode de copie d'email pour les expéditions"
+"Shipment Comments","Commentaires de livraison"
+"Shipment Comment Email Sender","Expéditeur du mail de commentaire de livraison"
+"Shipment Comment Email Template","Gabarit du mail de commentaire de livraison"
+"Shipment Comment Email Template for Guest","Gabarit de mail de commentaire d'expédition pour un invité"
+"Send Shipment Comment Email Copy To","Envoyer une copie du mail de commentaire de livraison"
+"Send Shipment Comments Email Copy Method","Mode de copie d'email pour les commentaires d'expédition"
+"Credit Memo Email Sender","Expéditeur du mail d'avoir"
+"Credit Memo Email Template","Gabarit de mail d'avoir"
+"Credit Memo Email Template for Guest","Gabarit de mail d'avoir pour un invité"
+"Send Credit Memo Email Copy To","Envoyer une copie du mail d'avoir à"
+"Send Credit Memo Email Copy Method","Mode de copie d'email pour les avoirs"
+"Credit Memo Comment Email Sender","Expéditeur du mail de commentaire d'avoir"
+"Credit Memo Comment Email Template","Gabarit de mail de commentaire d'avoir pour un invité"
+"Credit Memo Comment Email Template for Guest","Gabarit de mail de commentaire d'avoir pour un invité"
+"Send Credit Memo Comment Email Copy To","Envoyer une copie du mail de commentaire d'avoir à"
+"Send Credit Memo Comments Email Copy Method","Mode de copie d'email pour les commentaires d'avoir"
+"PDF Print-outs","Impressions PDF"
+"Display Order ID in Header","Afficher l'identifiant de commande dans l'en-tête"
+"Customer Order Status Notification","Notification de statut de commande client"
+"Orders and Returns Search Form","Formulaire de recherche de commandes et retours"
+"Anchor Custom Title","Présenter un titre personnalisé"
+Template,Gabarit
+"Default Template","Gabarit par défaut"
+Name,Nom
+"ZIP/Post Code","Code postal"
+Website,"Site web"
+"Invoice Date","Date de facturation"
+"Total Quantity","Quantité totale"
+"Default Status","Statut par défaut"
+"All Store Views","Toutes les vues magasin"
+"PDF Credit Memos","Avoirs en PDF"
+"Print Invoices","Imprimer les factures"
+"Print Credit Memos","Imprimer les avoirs"
+"Print All","Tout imprimer"
+"Print Shipping Labels","Imprimer les étiquettes de livraison"
+"Customer Email","Email du client"
+"PDF Invoices","Factures en PDF"
+Refunds,Remboursements

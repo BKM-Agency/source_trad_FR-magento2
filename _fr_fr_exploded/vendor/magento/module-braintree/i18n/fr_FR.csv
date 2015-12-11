@@ -1,0 +1,55 @@
+Country,Pays
+"Allowed Credit Card Types","Types de cartes de crédit autorisées"
+Month,Mois
+Year,Année
+"Credit Card Type","Type de carte de crédit"
+"Credit Card Number","Numéro de carte bancaire"
+"Please agree to all the terms and conditions before placing the order.","Veuillez accepter les conditions générales de ventes avant de valider la commande."
+"Credit card type is not allowed for this payment method.","Le type de carte bancaire n'est pas autorisé pour ce mode de paiement."
+"Selected payment type is not allowed for billing country.","Le type de paiement sélectionné n'est pas autorisé pour le pays de facturation."
+Invoice,Facturer
+Shipment,Expédition
+Authorize,Autoriser
+"Authorize and Capture","Autorisation et collecte"
+"--Please Select--","--Votre choix--"
+"some error","une erreur"
+error,erreur
+"Payment Information","Informations de paiement"
+"Please Select","Veuillez sélectionner"
+"Expiration Date","Date d'expiration"
+"Card Verification Number","Numéro de vérification"
+or,ou
+Delete,Supprimer
+Back,Retour
+"* Required Fields","* Champs obligatoires"
+"Credit Card","Carte de crédit"
+"Card Verification Number Visual Reference","Référence visuelle numérique de vérification de carte"
+"What is this?","Aide ?"
+"Billing Address","Adresse de facturation"
+"First Name",Prénom
+"Last Name",Nom
+Company,Société
+Address,Adresse
+City,Ville
+State/Province,État/Région
+"Please select region, state or province","Sélectionnez un département / état"
+"Zip/Postal Code","Code postal"
+Submit,Valider
+Type,Type
+"Card Number","Numéro de carte"
+"Is Default","Valeur par défaut"
+Actions,Actions
+Yes,Oui
+No,Non
+Edit,Éditer
+Title,Titre
+"Payment Action","Action de paiement"
+"Merchant ID","ID de marchand"
+"Private Key","Clé privée"
+Debug,Déboguage
+"New Order Status","Statut d'une nouvelle commande"
+"Credit Card Types","Types de cartes de paiement"
+"Sort Order","Ordre de tri"
+"Payment from Applicable Countries","Mode de paiement autorisé pour"
+"Payment from Specific Countries","Mode de paiement autorisé pour les pays spécifiques"
+"Require Customer's Billing Address","Nécessite l'adresse de facturation du client"

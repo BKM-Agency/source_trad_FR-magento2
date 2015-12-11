@@ -1,0 +1,13 @@
+"Change Encryption Key","Changer la clé de chiffrement"
+"Encryption Key","Clé de chiffrement"
+"New Encryption Key","Nouvelle clé de chiffrement"
+"The encryption key is used to protect passwords and other sensitive data.","La clé de chiffrement est utilisée pour protéger les mots de passe et d'autres données sensibles."
+"Auto-generate a Key","Générer automatiquement une clé"
+No,Non
+Yes,Oui
+"The generated key will be displayed after changing.","La clé générée sera affichée après avoir été changé."
+"New Key","Nouvelle clé"
+"Deployment configuration file is not writable.","Le fichier de configuration du déploiement n'est pas accessible en écriture."
+"Please enter an encryption key.","Merci de renseigner une clé de chiffrement."
+"The encryption key has been changed.","La clé de chiffrement a été modifiée."
+"This is your new encryption key: <span style=""font-family:monospace;"">%1</span>. Be sure to write it down and take good care of it!","Ceci est votre nouvelle clé de chiffrement : <span style=""font-family: monospace;"">%1</span>. Assurez-vous de l'écrire et de prendre soin d'elle !"

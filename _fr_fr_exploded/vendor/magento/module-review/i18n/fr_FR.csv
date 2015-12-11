@@ -1,0 +1,91 @@
+"Save Review","Sauvegarder le commentaire"
+"New Review","Nouveau commentaire"
+"Review Details","Détail du commentaire"
+Product,Produit
+"Product Rating","Notation du produit"
+Status,Statut
+Visibility,Visibilité
+Nickname,Pseudo
+"Summary of Review","Résumé du commentaire"
+Review,Commentaire
+Previous,Précédent
+Next,Suivant
+"Delete Review","Supprimer le commentaire"
+"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
+"Edit Review '%1'","Éditer le commentaire '%1'"
+"<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>","<a href=""%1"" onclick=""this.target='blank'"">%2 %3</a> <a href=""mailto:%4"">(%4)</a>"
+Administrator,Administrateur
+Guest,Invité
+"Summary Rating","Aperçu des notations"
+"Detailed Rating","Notation détaillée"
+ID,ID
+Title,Titre
+Type,Type
+SKU,Réf.
+Action,Action
+Edit,Éditer
+Delete,Supprimer
+"Are you sure?","Êtes-vous sûr(e) ?"
+"Update Status","Mettre à jour le statut"
+Customer,Client
+"Pending Reviews of Customer `%1`","Commentaires en attente du client '%1'"
+"Pending Reviews","Commentaires en attente"
+"All Reviews of Customer `%1`","Tous les commentaires du client '%1'"
+"All Reviews of Product `%1`","Tous les commentaires pour le produit '%1'"
+"All Reviews","Tous les commentaires"
+Name,Nom
+Price,Prix
+Quantity,Quantité
+Websites,"Sites web"
+"Manage Ratings","Gérer les notations"
+"Add New Rating","Ajouter une notation"
+"Save Rating","Sauvegarder la notation"
+"Delete Rating","Supprimer la notation"
+"New Rating","Nouvelle notation"
+"Rating Title","Libellé de notation"
+"Default Value","Valeur par défaut"
+"Rating Visibility","Visibilité de classement"
+"Sort Order","Ordre de tri"
+"Rating Information","Informations de notation"
+"Product Reviews",Commentaires
+"Pending product review(s)","Commentaire(s) de produit en attente"
+"Summary of review: %1 <br/>","Résumé du commentaire : %1 <br/>"
+"Review: %1 <br/>","Commentaire : %1 <br/>"
+"Store: %1 <br/>","Magasin : %1 <br/>"
+"Pending Reviews RSS","Flux RSS des commentaires en attente"
+Reviews,Commentaires
+"Customer Reviews","Commentaires des clients"
+"Edit Review","Éditer le commentaire '%s'"
+"Please select review(s).","Sélectionnez au moins un commentaire."
+"The review was removed by another user or does not exist.","Le commentaire a été supprimé par un autre utilisateur ou n'existe pas."
+"My Product Reviews","Mes commentaires"
+Approved,Approuvé
+Pending,"En attente"
+"Not Approved","Non approuvé"
+"Rating isn't Available","Les notations ne sont pas activées"
+"Assigned Options","Options attribuées"
+"Option Title:","Titre de l'option :"
+"Product Name","Nom du produit"
+Actions,Actions
+"You have submitted no reviews.","Vous n'avez posté aucun commentaire."
+Back,Retour
+"My Recent Reviews","Mes derniers commentaires :"
+"View All","Tout voir"
+"Average Customer Rating:","Note moyenne des clients :"
+"Back to My Reviews","Retour à mes commentaires"
+"Be the first to review this product","Soyez le premier à commenter ce produit"
+"Write Your Own Review","Rédigez votre propre commentaire"
+"* Required Fields","* Champs obligatoires"
+"You're reviewing:","Vous commentez :"
+Summary,Résumé
+"Submit Review","Poster le commentaire"
+"Add Your Review","Ajoutez votre commentaire"
+"%1 Review(s)","%1 Commentaire(s)"
+"Back to Main Product Info","Retour à la fiche du produit"
+"Average Customer Rating","Note moyenne"
+"Product Rating:","Note du produit :"
+"Product Review (submitted on %1):","<strong>Commentaire</strong> (posté le %1) :"
+"Back to Product Reviews","Retour aux commentaires"
+"Allow Guests to Write Reviews","Autoriser les invités à écrire des commentaires"
+Active,Actif
+Inactive,Inactif

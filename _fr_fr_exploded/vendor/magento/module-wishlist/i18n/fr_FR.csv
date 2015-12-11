@@ -1,0 +1,56 @@
+"Page not found.","Page introuvable."
+"Please enter a valid email address.","Saisissez un email valide."
+"Can't save description %1","Impossible d'enregistrer la description %1"
+Comment,Commentaire
+"Display item quantities","Afficher la quantité totale d'articles dans le panier"
+"An item option with code %1 already exists.","Une option article avec le code %1 existe déjà."
+"Cannot specify product.","Impossible de spécifier le produit."
+"Invalid item option format.","Format d'option d'élément invalide."
+"%1 for ""%2"".","%1 pour ""%2""."
+"We can't add this item to your shopping cart right now.","Impossible d'ajouter ce produit au panier."
+"%1 product(s) have been added to shopping cart: %2.","%1 produits ont été ajoutés à votre panier : %2."
+Comment:,"Commentaire :"
+"%1's Wishlist","Liste d'envies de %1"
+"The product does not exist.","Le produit n'existe pas."
+"Test Phrase","Phrase de test"
+message,message
+Message,Message
+"Localized Exception.","Localized Exception."
+"Add All to Cart","Tout ajouter au panier"
+"Move to Wishlist","Ajouter à la <br/>liste d'envies"
+"View Product","Voir produit"
+Qty,Qté
+"Add to Cart","Ajouter au panier"
+Availability,Disponibilité
+"In stock","En stock"
+"Out of stock",Épuisé
+Edit,Éditer
+"Remove Item","Supprimer l'article"
+"Remove item","Supprimer l'article"
+"Add to Compare","Ajouter au comparateur"
+"Options Details","Détails des options"
+"RSS link to %1's wishlist","Flux RSS de la liste d'envies de %1"
+"RSS Feed","Flux RSS"
+Product,Produit
+"Add to Wish List","Ajouter à la liste d'envie"
+Back,Retour
+"* Required Fields","* Champs obligatoires"
+"Sharing Information","Information de partage"
+"Email addresses, separated by commas","Adresses email, séparées par des virgules"
+"Last Added Items","Derniers articles ajoutés"
+"Remove This Item","Supprimer cet élément"
+"Share Options","Options de partage"
+"Email Sender","Expéditeur du mail"
+"Email Template","Gabarit du mail"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+"General Options","Options générales"
+Enabled,Activé
+"Enable RSS","Activer le RSS"
+"No Items Found","Aucun article trouvé"
+"Product Name","Nom du produit"
+"User Description","Description utilisateur"
+Quantity,Quantité
+Action,Action
+Configure,Configurer
+Delete,Supprimer
+"Product Details and Comment","Détails du produit et commentaire"

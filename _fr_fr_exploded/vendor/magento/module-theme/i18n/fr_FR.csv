@@ -1,0 +1,59 @@
+Themes,Thèmes
+"Save and Continue Edit","Sauvegarder et continuer à éditer"
+Manage,Gérer
+General,Général
+"Media Storage","Stockage des medias"
+"Delete Folder","Supprimer le dossier"
+"Delete File","Supprimer le fichier"
+"Insert File","Insérer le fichier"
+"New Folder Name:","Nouveau nom de dossier :"
+"Storage Root","Racine du stockage"
+label,libellé
+"-- Please Select --","-- Votre choix --"
+Copy,Copie
+Message,Message
+Remove,Supprimer
+"Report All Bugs","Signaler un dysfonctionnement"
+"JavaScript seems to be disabled in your browser.","Javascript est désactivé dans votre navigateur."
+"Items %1 to %2 of %3 total","Articles <strong>%1</strong> à <strong>%2</strong> sur un total de <strong>%3</strong>"
+"%1 Item(s)","%1 article(s)"
+Page,Page
+Previous,Précédent
+Next,Suivant
+Show,Afficher
+"per page","par page"
+"About the calendar","À propos du calendrier"
+Close,Fermer
+"Go Today","Aller à aujourd'hui"
+WK,Sem.
+Time,Heure
+Hour,Heure
+Minute,Minute
+"We could not detect a size.","Impossible de détecter le poids du fichier."
+Empty,Vide
+"1 column","1 colonne"
+"HTML Head","En-tête HTML"
+"Favicon Icon","Icône favicon"
+"Allowed file types: ICO, PNG, GIF, JPG, JPEG, APNG, SVG. Not all browsers support all these formats!","Types de fichiers autorisés : ICO, PNG, GIF, JPEG, APNG, SVG. Attention, certains formats ne sont pas supportés par certains navigateurs."
+"Default Title","Titre par défaut"
+"Title Prefix","Préfixe du titre"
+"Title Suffix","Suffixe du titre"
+"Default Description","Description par défaut"
+"Default Keywords","Mots-clés par défaut"
+"Miscellaneous Scripts","Scripts divers"
+"This will be included before head closing tag in page HTML.","Ceci sera inclus juste avant la balise de fermeture de body."
+"Display Demo Store Notice","Afficher le message d'avertissement de boutique de démo"
+"Default Robots","Robots par défaut"
+"Reset to Defaults","Réinitialiser les paramètres par défaut"
+Header,En-tête
+"Logo Image","Image du logo"
+"Logo Image Alt","Texte alternatif du logo"
+"Welcome Text","Texte de bienvenue"
+Footer,"Pied de page"
+Copyright,Copyright
+"Miscellaneous HTML","Code HTML divers"
+"This will be displayed just before body closing tag.","Ceci sera affiché juste avant la balise de fermeture de body."
+"Default welcome msg!","Message d'accueil par défaut !"
+"2 columns with left bar","2 colonnes avec colonne de gauche"
+"2 columns with right bar","2 colonnes avec colonne de droite"
+"3 columns","3 colonnes"

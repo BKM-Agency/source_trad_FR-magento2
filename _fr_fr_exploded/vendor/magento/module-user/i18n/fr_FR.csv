@@ -1,0 +1,75 @@
+Back,Retour
+Reset,Réinitialiser
+"Delete Role","Supprimer le rôle"
+"Are you sure you want to do this?","Êtes-vous sûr(e) de vouloir effectuer cette opération ?"
+"Save Role","Sauvegarder le rôle"
+Roles,Rôles
+"Add New Role","Nouveau rôle"
+"Role Information","Informations du rôle"
+"Role Users","Utilisateurs ayant ce rôle"
+"User ID","ID utilisateur"
+"User Name","Nom d'utilisateur"
+"First Name",Prénom
+"Last Name",Nom
+Email,Email
+Status,Statut
+Active,Actif
+Inactive,Inactif
+"Role Resources","Ressources du rôle"
+"Role Info","Infos du rôle"
+"Role Name","Nom du rôle"
+"Add New User","Nouvel utilisateur"
+Users,Utilisateurs
+"Save User","Sauvegarder l'utilisateur"
+"Delete User","Supprimer l'utilisateur"
+"Edit User '%1'","Éditer l'utilisateur '%1'"
+"New User","Nouvel utilisateur"
+"Account Information","Informations du compte"
+"User Email","Email de l'utilisateur"
+Password,"Mot de passe"
+"New Password","Nouveau mot de passe"
+"Password Confirmation","Confirmation du mot de passe"
+"Interface Locale","Langue de l'interface"
+"This account is","Ce compte est"
+"Account Status","Statut du compte"
+"Current User Identity Verification","Vérification de l'utilisateur actuel"
+"Your Password","Votre mot de passe"
+"User Roles Information","Informations rôle utilisateur"
+Assigned,Affecté
+Role,Rôle
+"User Information","Informations de l'utilisateur"
+"User Info","Infos de l'utilisateur"
+"User Role","Rôle de l'utilisateur"
+"Your password reset link has expired.","Le lien de réinitialisation de mot de passe a expiré."
+System,Système
+Permissions,Permissions
+"You cannot delete your own account.","Vous ne pouvez pas supprimer votre propre compte."
+"This user no longer exists.","Cet utilisateur n'existe plus."
+"Edit User","Modifier l'utilisateur"
+"An error occurred while deleting this role.","Erreur lors de la suppression de ce rôle."
+"Edit Role","Modifier le rôle"
+"New Role","Nouveau rôle"
+"This role no longer exists.","Ce rôle n'existe plus."
+"An error occurred while saving this role.","Erreur lors de la sauvegarde de ce rôle."
+"You have entered an invalid password for current user.","Le mot de passe est invalide."
+Recommended,Recommandé
+"You did not sign in correctly or your account is temporarily disabled.","Erreur dans les paramètres de connexion ou votre compte est temporairement désactivé."
+"You need more permissions to access this.","Vous avez besoin de plus d'autorisation pour accéder à ceci."
+"Please enter a valid email.","Veuillez saisir une adresse email valide."
+"Email address","Adresse mail"
+"Retrieve Password","Récupérer mot de passe"
+"Forgot your password?","Mot de passe oublié ?"
+"Reset a Password","Réinitialiser un mot de passe"
+"Confirm New Password","Confirmer le nouveau mot de passe"
+"Reset Password","Réinitialiser le mot de passe"
+"Roles Resources","Ressources des rôles"
+"Resource Access","Accès aux ressources"
+Custom,Personnalisé
+All,Tous
+Resources,Ressources
+"Warning!\r\nThis action will remove this user from already assigned role\r\nAre you sure?","Attention !\r\nCette action supprimera cet utilisateur des rôles déjà assignés.\r\nÊtes-vous sûr(e) ?"
+"Warning!\r\nThis action will remove those users from already assigned roles\r\nAre you sure?","Attention !\r\nCette action supprimera ces utilisateurs des rôles déjà assignés.\r\nÊtes-vous sûr(e) ?"
+"%name,","%name,"
+"Email template chosen based on theme fallback when ""Default"" option is selected.","Le template d'email choisi est basé sur le thème parent lorsque l'option ""Défaut"" est sélectionnée."
+ID,ID
+Username,"Nom d'utilisateur"
